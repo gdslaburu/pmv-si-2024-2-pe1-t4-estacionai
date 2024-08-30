@@ -20,16 +20,10 @@ Graças a sua localização privilegiada, a estrutura possui um grande fluxo de 
 Os clientes do shopping saem de casa sem saber basicamente se vão conseguir colocar seu carro em um local seguro dentro do shopping, ou vão correr o risco de estacionar fora do estabelecimento, fazendo com que eles repensem se realmente é necessário ir até o ambiente comercial. 
 Tendo essa situação o ideal para João seria a implementação de uma plataforma em que os clientes conseguissem agenda as vagas para estacionar com antecedência, evitando situações desagradáveis e sempre garantindo a praticidade e a tranquilidade para que eles possam se deslocar para o shopping. 
 
+4- Roberto Carlos é gerente de um estacionamento no entorno da Raja Gabaglia, uma das avenidas mais movimentadas da Grande Belo Horizonte. 
+Esse ponto específico da cidade é referência em carros e em qualquer coisa na area de mecânica automotiva, além de ser um grande polo empresarial também, por esses motivos o movimento na area é muito grande e Roberto muitas vezes perde o controle na administração do seu negócio. 
+Para maximizar a ocupação de vagas no estacionamento e minimizar o tempo ocioso evitando o conflito entre os clientes, Roberto está em busca de uma ferramenta que simplifique a administração diária do estacionamento com um monitoramento de vagas e controle de reservas. 
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
