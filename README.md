@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Desenvolver um website que funcione como uma plataforma de agendamento de vagas de estacionamento, semelhante ao modelo do Airbnb, onde proprietários de vagas de carros podem listar seus espaços disponíveis e motoristas podem reservar essas vagas de forma antecipada e com segurança.
 
 ## Integrantes
 
