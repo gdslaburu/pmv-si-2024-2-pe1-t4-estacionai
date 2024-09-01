@@ -51,16 +51,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que o admin CADASTRE suas vagas | ALTA |
+|RF-002| Permitir que o admin VEJA suas vagas | ALTA | 
+|RF-003| Permitir que o admin ATUALIZE suas vagas | ALTA | 
+|RF-004| Permitir que o admin EXCLUA suas vagas | ALTA | 
+|RF-005| Permitir que o usuário agende sua vaga | ALTA |
+|RF-006| Implementar um sistema de login | ALTA |
+|RF-007| Permitir que os usuários atualizem e visualizem seus perfis | MÉDIA |
+|RF-008| Fornecer relatórios detalhados para os proprietários | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | ALTA |  
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
