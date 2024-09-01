@@ -51,21 +51,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o admin CADASTRE suas vagas | ALTA |
-|RF-002| Permitir que o admin VEJA suas vagas | ALTA | 
-|RF-003| Permitir que o admin ATUALIZE suas vagas | ALTA | 
-|RF-004| Permitir que o admin EXCLUA suas vagas | ALTA | 
-|RF-005| Permitir que o usuário agende sua vaga | ALTA |
-|RF-006| Implementar um sistema de login | ALTA |
-|RF-007| Permitir que os usuários atualizem e visualizem seus perfis | MÉDIA |
-|RF-008| Fornecer relatórios detalhados para os proprietários | BAIXA |
+|RF-001| Permitir que os admins criem, atualizem e visualizem suas vagas | ALTA |
+|RF-002| Permitir que o usuário agende sua vaga | ALTA |
+|RF-003| Implementar um sistema de login | ALTA |
+|RF-004| Permitir que os usuários atualizem e visualizem seus perfis | MÉDIA |
+|RF-005| Fornecer relatórios detalhados para os proprietários | BAIXA |
 
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | ALTA |  
+|RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | ALTA |
+|RNF-001| A interface do usuário deve ser intuitiva e fácil de usar | ALTA |
+|RNF-001| O site deve garantir uma disponibilidade mínima de 99,9% | ALTA |
+|RNF-001| A arquitetura do sistema deve ser organizada de maneira a facilitar a manutenção e futuras atualizações | MÉDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
