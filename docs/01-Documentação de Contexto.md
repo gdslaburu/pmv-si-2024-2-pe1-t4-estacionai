@@ -11,7 +11,7 @@ Desenvolver um Website que permita aos proprietários de estacionamento registra
 
 **Objetivos especificos**  
 
-- Otimizar o tempo do usuário e diminuir a emissão de gases poluentes ao buscar um local para estacionar;
+'- Otimizar o tempo do usuário e diminuir a emissão de gases poluentes ao buscar um local para estacionar;'
 
 - Possibilitar que o proprietário do estacionamento registre e gerencie as vagas a ser disponibilizadas no website;
 
