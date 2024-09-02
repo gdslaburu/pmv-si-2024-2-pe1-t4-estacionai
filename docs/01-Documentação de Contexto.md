@@ -24,4 +24,6 @@ Desenvolver uma aplicação web que permita aos proprietários de estacionamento
 
 ## Público-Alvo
 
-Nosso Público-alvo é composto por pessoas que possuem veículos, sem restrições de idade ou classe social, que buscam praticidade em encontrar locais para armazená-los em segurança durante seus compromissos diversos e por pessoas jurídicas que desejam disponibilizar suas propriedades para serem utilizadas como estacionamentos.
+Nosso Público-alvo é composto majoritariamente por 2 grupos de indivíduos:
+- Pessoas físicas que possuem veículos, sem restrições de idade ou classe social, que buscam praticidade em encontrar locais para armazená-los em segurança durante seus compromissos diversos;
+- Pessoas jurídicas que desejam disponibilizar suas propriedades para serem utilizadas como estacionamentos.
