@@ -12,7 +12,7 @@ Para mais, a página web irá apresentar resultados impactantes na economia loca
 
 Desenvolver uma aplicação web que permita aos proprietários de estacionamentos cadastrem as vagas disponiveis para estacionar, oferecendo aos usuários a possibilidade de visualizar e agendar as vagas de forma pratica e intuitiva.
 
-## Objetivos Especificos 
+## Objetivos Específicos 
 
 - Otimizar o tempo do usuário e diminuir a emissão de gases poluentes ao buscar um loca para estacionar;
 
