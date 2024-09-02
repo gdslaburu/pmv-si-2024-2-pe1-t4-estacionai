@@ -16,6 +16,6 @@ Possibilitar que o proprietário do estacionamento registre e gerencie as vagas 
 Permitir que o usuário agende a vaga de sua preferência de acordo com dia e hora desejada;
 Viabilizar a reserva de vagas diárias por períodos semanais e mensais podendo assim ofertar descontos nessas modalidades.
 
+## Público-Alvo
 
-
-
+Nosso Públoc-Alvo é comoposto por pessoas que possuem veículos, sem restrições de idade ou classe social, que buscam praticidade em encontrar locais para armazenalos em segurança durante seus compromissos diversos e por pessoas júridicas que dejam disponibilizar suas propriedades para serem utilizadas como estacionamentos.
