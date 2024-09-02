@@ -18,4 +18,4 @@ Viabilizar a reserva de vagas diárias por períodos semanais e mensais podendo 
 
 ## Público-Alvo
 
-Nosso Públoc-Alvo é comoposto por pessoas que possuem veículos, sem restrições de idade ou classe social, que buscam praticidade em encontrar locais para armazenalos em segurança durante seus compromissos diversos e por pessoas júridicas que dejam disponibilizar suas propriedades para serem utilizadas como estacionamentos.
+Nosso Públoc-Alvo é comoposto por pessoas que possuem veículos, sem restrições de idade ou classe social, que buscam praticidade em encontrar locais para armazena-los em segurança durante seus compromissos diversos e por pessoas júridicas que dejam disponibilizar suas propriedades para serem utilizadas como estacionamentos.
