@@ -1,3 +1,16 @@
+## Introdução
+
+  A crescente urbanização e o aumento do número de veículos nas cidades têm tornado cada vez mais difícil a busca por vagas de estacionamento disponíveis, especialmente em áreas centrais e comerciais. 
+Segundo o artigo de (Karine Nobre do site a gazeta [1]), a frota de veículos cresceu 43,7% em 12 anos, saltando de 64,8 milhões para 115,1 milhões em 2022. Com o crescimento  da população e também o aumento do número de veículos nas grandes cidades.
+  A busca por vagas de estacionamento em grandes centros urbanos é um problema que impacta diretamente a mobilidade e a qualidade de vida. Uma pesquisa realizada pela EY Consultoria, citada pela Mobilize Brasil ([2]), revelou um déficit de 125 mil vagas no centro expandido de São Paulo, gerando congestionamentos e impactando a mobilidade urbana.
+Este problema afeta diretamente a qualidade de vida dos motoristas locais e visitantes, que perdem tempo e combustível procurando vagas, contribuindo também para o aumento do congestionamento e da poluição ambiental. Em algumas cidades, a dificuldade de encontrar estacionamento pode desencorajar a ida a determinados locais, impactando negativamente o comércio, a economia,  o turismo e a mobilidade urbana.
+  Donald Shoup (apud ESTADÃO, [3]) destaca que a dificuldade em encontrar uma vaga leva os motoristas a desistirem de suas atividades, impactando negativamente o comércio local. O autor estima que um motorista pode levar até 15 minutos para encontrar uma vaga e, caso não a encontre, desiste da visita. Essa desistência representa uma perda de oportunidades de consumo e contribui para o aumento do trânsito.
+  Ainda segundo Donald Shoup (apud ESTADÃO, [3])  essa desistência significa que um produto ou serviço deixou de ser consumido e gerou trânsito durante essa jornada, sem falar no estresse e na frustração criados. Alguns estudos afirmam que o volume de vendas em áreas com estacionamento público rotativo aumenta em até 30%.
+  A instabilidade de informações sobre a disponibilidade de vagas leva a decisões ineficientes, com motoristas frequentemente circulando por longos períodos até encontrar um local para estacionar, locais com baixa segurança e necessidade de longos deslocamentos a pé.
+
+
+
+
 ## Justificativa
 
 A criação de uma página web dedicada à localização de vagas de estacionamento surge a partir da crescente demanda por soluções tecnológicas que otimizem a mobilidade urbana. Encontrar uma vaga de estacionamento tornou-se um desafio diário para usuários de estacionamentos privados, o que acaba por vezes desapontando o consumidor e gera prejuízos para o proprietários de estacionamento, já que a chance de retorno desses clientes a esses locais tendem a diminuir após a primeira experiencia frustrada. 
