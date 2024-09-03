@@ -4,7 +4,6 @@
 Segundo o artigo de (Karine Nobre do site a gazeta [1]), a frota de veículos cresceu 43,7% em 12 anos, saltando de 64,8 milhões para 115,1 milhões em 2022. Com o crescimento  da população e também o aumento do número de veículos nas grandes cidades.
 
   A busca por vagas de estacionamento em grandes centros urbanos é um problema que impacta diretamente a mobilidade e a qualidade de vida. Uma pesquisa realizada pela EY Consultoria, citada pela Mobilize Brasil ([2]), revelou um déficit de 125 mil vagas no centro expandido de São Paulo, gerando congestionamentos e impactando a mobilidade urbana.
-Este problema afeta diretamente a qualidade de vida dos motoristas locais e visitantes, que perdem tempo e combustível procurando vagas, contribuindo também para o aumento do congestionamento e da poluição ambiental. Em algumas cidades, a dificuldade de encontrar estacionamento pode desencorajar a ida a determinados locais, impactando negativamente o comércio, a economia,  o turismo e a mobilidade urbana.
 
   Donald Shoup (apud ESTADÃO, [3]) destaca que a dificuldade em encontrar uma vaga leva os motoristas a desistirem de suas atividades, impactando negativamente o comércio local. O autor estima que um motorista pode levar até 15 minutos para encontrar uma vaga e, caso não a encontre, desiste da visita. Essa desistência representa uma perda de oportunidades de consumo e contribui para o aumento do trânsito.
   
@@ -12,7 +11,13 @@ Este problema afeta diretamente a qualidade de vida dos motoristas locais e visi
   
   A instabilidade de informações sobre a disponibilidade de vagas leva a decisões ineficientes, com motoristas frequentemente circulando por longos períodos até encontrar um local para estacionar, locais com baixa segurança e necessidade de longos deslocamentos a pé.
 
+## Problema
 
+  A falta de transparência e um sistema eficiente que permita aos motoristas localizar e reservar vagas de estacionamento de maneira antecipada e segura, resulta em decisões ineficientes, frustração, perda de tempo e recursos (combustível), com motoristas frequentemente circulando por longos períodos até encontrar um local para estacionar. 
+  
+  Este problema afeta diretamente a qualidade de vida dos motoristas locais e visitantes, que perdem tempo e combustível procurando vagas, contribuindo também para o aumento do congestionamento e da poluição ambiental. Em algumas cidades, a dificuldade de encontrar estacionamento pode desencorajar a ida a determinados locais, impactando negativamente o comércio local, a economia,  o turismo e a mobilidade urbana e contribuindo para o aumento do congestionamentoe da poluição ambiental.
+  
+  Isso é significativamente agravado pela dificuldade em prever a disponibilidade de vagas para estacionar, especialmente em áreas urbanas densamente povoadas. 
 
 
 ## Justificativa
