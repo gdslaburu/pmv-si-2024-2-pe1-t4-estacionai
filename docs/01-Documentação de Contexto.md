@@ -49,3 +49,12 @@ Desenvolver uma aplicação web que permita aos proprietários de estacionamento
 Nosso Público-alvo é composto por 2 grupos de indivíduos:
 - Pessoas físicas que possuem veículos, sem restrições de idade ou classe social, que buscam praticidade em encontrar locais para armazená-los em segurança durante seus compromissos diversos;
 - Pessoas jurídicas que desejam disponibilizar suas propriedades para serem utilizadas como estacionamentos.
+
+## Fontes:
+[1] [Gazeta] - Karine, N. (30 de 11 de 2023). Frota de veículos cresce 43,7% em 12 anos no Brasil: (https://www.agazeta.com.br/colunas/karine-nobre/frota-de-veiculos-cresce-437-em-12-anos-no-brasil-1123)
+ 
+[2] [Mobilize Brasil] - Estacionamentos: vilões da mobilidade urbana: (https://www.mobilize.org.br/noticias/6314/estacionamentos-viloes-da-mobilidade-urbana.html)
+
+[3] [Mobilidade Estadão] - Mobilidade democrática e sustentável:
+(https://mobilidade.estadao.com.br/meios-de-transporte/carro/mobilidade-democratica-e-sustentavel/)
+
