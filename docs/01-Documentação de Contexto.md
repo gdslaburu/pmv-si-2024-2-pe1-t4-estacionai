@@ -1,7 +1,9 @@
 ## Introdução
 
   A crescente urbanização e o aumento do número de veículos nas cidades têm tornado cada vez mais difícil a busca por vagas de estacionamento disponíveis, especialmente em áreas centrais e comerciais. 
-Segundo o artigo de (Karine Nobre do site a gazeta [1]), a frota de veículos cresceu 43,7% em 12 anos, saltando de 64,8 milhões para 115,1 milhões em 2022. Com o crescimento  da população e também o aumento do número de veículos nas grandes cidades.
+Segundo o artigo de (Karine Nobre do site a gazeta [1]), a frota de veículos cresceu 43,7% em 12 anos, saltando de 64,8 milhões para 115,1 milhões em 2022. Com o crescimento  da população e também o aumento do número de veículos nas grandes cidades, demonstra uma crescente pressão sobre as infraestruturas urbanas. 
+ 
+
 
   A busca por vagas de estacionamento em grandes centros urbanos é um problema que impacta diretamente a mobilidade e a qualidade de vida. Uma pesquisa realizada pela EY Consultoria, citada pela Mobilize Brasil ([2]), revelou um déficit de 125 mil vagas no centro expandido de São Paulo, gerando congestionamentos e impactando a mobilidade urbana.
 
