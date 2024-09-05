@@ -57,12 +57,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que os admins criem, atualizem e visualizem suas vagas | ALTA |
-|RF-002| Permitir que o usuário agende sua vaga | ALTA |
-|RF-003| Implementar um sistema de login | ALTA |
-|RF-004| Permitir que os usuários atualizem e visualizem seus perfis | MÉDIA |
-|RF-005| Fornecer relatórios detalhados para os proprietários | BAIXA |
-
+|RF-001| Permitir que o proprietário cadastre seu estabelecimento | ALTA |
+|RF-002| Permitir que o proprietário crie e atualize as vagas  | ALTA |
+|RF-003| Permitir que o proprietário visualize as vagas  | ALTA |
+|RF-004| Permitir que o proprietário confirme uma reserva | ALTA |
+|RF-005| Permitir que o proprietário cancele uma reserva | ALTA |
+|RF-006| Permitir que o proprietário defina preços por hora, dia, ou mês para as vagas | ALTA |
+|RF-007| Implementar um sistema de login | ALTA |
+|RF-008| Permitir que o usuário pesquise vagas de estacionamento por local | ALTA |
+|RF-009| Exibir para o usuário as vagas de estacionamento mais próximas a ele | ALTA |
+|RF-010| Permitir que o usuário reserve uma vaga de estacionamento por hora, dia ou mês | ALTA |
+|RF-011| Exibir o preço da vaga antes de concluir a reserva | ALTA |
+|RF-012| Permitir que o usuário cancele uma reserva, com antecedência de até 1h | ALTA |
+|RF-013| Notificar o usuário sobre o status de suas reservas (confirmada, cancelada, etc.) | ALTA |
+|RF-014| Exibir um resumo para o proprietário de quantas vagas foram alocadas naquele mês | MÉDIA |
+|RF-015| Permitir que os usuários atualizem e visualizem seus perfis | MÉDIA |
 
 ### Requisitos não Funcionais
 
