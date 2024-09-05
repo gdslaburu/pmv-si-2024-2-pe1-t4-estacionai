@@ -69,9 +69,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | ALTA |
-|RNF-001| A interface do usuário deve ser intuitiva e fácil de usar | ALTA |
-|RNF-001| O site deve garantir uma disponibilidade mínima de 99,9% | ALTA |
-|RNF-001| A arquitetura do sistema deve ser organizada de maneira a facilitar a manutenção e futuras atualizações | MÉDIA |
+|RNF-002| A interface do usuário deve ser intuitiva e fácil de usar | ALTA |
+|RNF-003| O banco de dados utilizado deve ser JSON-Server | ALTA |
+|RNF-004| Para o serviço de geolocalização deve ser usada a API Places do Google | ALTA |
+|RNF-005| Para estrutura do site utilizaremos HTML | ALTA |
+|RNF-006| Para personalização do site utilizaremos CSS | ALTA |
+|RNF-007| Para lógica do site utilizaremos Javascript | ALTA |
+|RNF-008| As senhas de todos os usuários devem ser criptografadas com crypto-js | ALTA |
+
+
+
+
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
