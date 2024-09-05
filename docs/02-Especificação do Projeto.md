@@ -85,6 +85,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-006| Para personalização do site utilizaremos CSS | ALTA |
 |RNF-007| Para lógica do site utilizaremos Javascript | ALTA |
 |RNF-008| As senhas de todos os usuários devem ser criptografadas com crypto-js | ALTA |
+|RNF-009| Escalabilidade, o sistema deve ser capaz de lidar com um grande número de usuários simultâneos sem afetar o desempenho |MÉDIA|
+|RNF-010| Segurança dos Dados práticas de segurança de dados| ALTA|
+|RNF-011| Disponibilidade 99,9% do tempo, com exceção de manutenções programadas |ALTA|
+|RNF-012| Compatibilidade com os principais navegadores (Chrome, Firefox, Safari, Edge)|ALTA|
+|RNF-013| Conformidade com Lei Geral de Proteção de Dados garantindo o consentimento dos usuários para coleta de dados e oferecendo a opção de remover seus dados do sistema |ALTA|
 
 
 
