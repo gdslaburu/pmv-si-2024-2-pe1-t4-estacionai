@@ -70,7 +70,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-011| Exibir o preço da vaga antes de concluir a reserva | ALTA |
 |RF-012| Permitir que o usuário cancele uma reserva, com antecedência de até 1h | ALTA |
 |RF-013| Notificar o usuário sobre o status de suas reservas (confirmada, cancelada, etc.) | ALTA |
-|RF-014| Exibir um resumo para o proprietário de quantas vagas foram alocadas naquele mês | MÉDIA |
+|RF-014| Exibir um resumo para o proprietário de quantas vagas foram alocadas diariamente,semanalmente e mensalmente | MÉDIA |
 |RF-015| Permitir que os usuários atualizem e visualizem seus perfis | MÉDIA |
 
 ### Requisitos não Funcionais
