@@ -63,3 +63,4 @@ Nosso Público-alvo é composto por 2 grupos de indivíduos:
 [3] [Mobilidade Estadão] - Mobilidade democrática e sustentável:
 (https://mobilidade.estadao.com.br/meios-de-transporte/carro/mobilidade-democratica-e-sustentavel/)
 
+[4].[Imagem da introdução] - Website piphomed.id
