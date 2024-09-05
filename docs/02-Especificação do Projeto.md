@@ -120,10 +120,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |02| Não pode ser desenvolvido um módulo de backend        |
 |03| Não será possível efetuar pagamentos pela plataforma  |
 |04| A plataforma só pode ser acessada via navegadores, não sendo permitido o desenvolvimento de um aplicativo nativo|
-|05| A plataforma só será compatível com sistemas de pagamento externos, sem integração direta |
-|06| O sistema poderá operar somente em língua portuguesa |
-|08| O uso de APIs externas, seguindo os limites de chamadas gratuitas da API, sem versões pagas |
-|09| O banco de dados deverá ser implementado localmente, como funcionaria |
+|05| O sistema poderá operar somente em língua portuguesa |
+|06| O uso de APIs externas, seguindo os limites de chamadas gratuitas da API, sem versões pagas |
+|07| O banco de dados deverá ser implementado localmente, como funcionaria?? |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
