@@ -6,7 +6,7 @@
 
 `SEMESTRE: 1º`
 
-Desenvolver um website que funcione como uma plataforma de agendamento de vagas de estacionamento, semelhante ao modelo do Airbnb, onde proprietários de vagas de carros podem listar seus espaços disponíveis e motoristas podem reservar essas vagas de forma antecipada e com segurança.
+Desenvolver uma plataforma online que conecta pessoas e/ou empresas que possuem espaços ou vagas disponíveis para estacionar carros com pessoas que buscam vagas de estacionamento em determinados locais, podendo ser agendados por hora, dia, ou mês. EstacionAí facilita a reserva de vagas de carros em uma ampla variedade de espaços, estacionamentos e locais, sendo eles de propriedade privada(CPF/CNPJ) onde proprietários de vagas de carros podem listar seus espaços disponíveis e motoristas podem reservar essas vagas de forma antecipada e com segurança.
 
 ## Integrantes
 
