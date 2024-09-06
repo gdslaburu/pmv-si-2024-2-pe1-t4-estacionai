@@ -86,15 +86,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-002| A interface do usuário deve ser intuitiva e fácil de usar | ALTA |
 |RNF-003| O banco de dados utilizado deve ser JSON-Server | ALTA |
 |RNF-004| Para o serviço de geolocalização deve ser usada a API Places do Google | ALTA |
-|RNF-005| Para estrutura do site utilizaremos HTML | ALTA |
-|RNF-006| Para personalização do site utilizaremos CSS | ALTA |
-|RNF-007| Para lógica do site utilizaremos Javascript | ALTA |
-|RNF-008| As senhas de todos os usuários devem ser criptografadas com crypto-js | ALTA |
-|RNF-009| Escalabilidade, o sistema deve ser capaz de lidar com um grande número de usuários simultâneos sem afetar o desempenho |MÉDIA|
-|RNF-010| Segurança dos Dados práticas de segurança de dados| ALTA|
-|RNF-011| Disponibilidade 99,9% do tempo, com exceção de manutenções programadas |ALTA|
-|RNF-012| Compatibilidade com os principais navegadores (Chrome, Firefox, Safari, Edge)|ALTA|
-|RNF-013| Conformidade com Lei Geral de Proteção de Dados garantindo o consentimento dos usuários para coleta de dados e oferecendo a opção de remover seus dados do sistema |ALTA|
+|RNF-005| Aplicação deve ser desenvolvida em HTML, CSS e Javascript | ALTA |
+|RNF-006| As senhas de todos os usuários devem ser criptografadas com crypto-js | ALTA |
+|RNF-007| Escalabilidade, o sistema deve ser capaz de lidar com um grande número de usuários simultâneos sem afetar o desempenho |MÉDIA|
+|RNF-008| Compatibilidade com os principais navegadores (Chrome, Firefox, Safari, Edge)|ALTA|
+|RNF-009| Conformidade com Lei Geral de Proteção de Dados garantindo o consentimento dos usuários para coleta de dados e oferecendo a opção de remover seus dados do sistema |ALTA|
 
 
 
@@ -127,7 +123,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |04| A plataforma só pode ser acessada via navegadores, não sendo permitido o desenvolvimento de um aplicativo nativo|
 |05| O sistema poderá operar somente em língua portuguesa |
 |06| O uso de APIs externas, seguindo os limites de chamadas gratuitas da API, sem versões pagas |
-|07| O banco de dados deverá ser implementado localmente, como funcionaria?? |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
