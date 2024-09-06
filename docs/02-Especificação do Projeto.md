@@ -8,23 +8,28 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-1-Maximiliano Augusto tem 40 anos, atualmente é o analista de sistemas da Infracon Engenharia, uma empresa que atua no ramo na construção civil e vem crescendo cada dia mais. 
+Persona 1
+Maximiliano Augusto tem 40 anos, atualmente é o analista de sistemas da Infracon Engenharia, uma empresa que atua no ramo na construção civil e vem crescendo cada dia mais. 
 Graças a esse crescimento o número de pessoas trabalhando no escritório central teve um aumento significativo, e como consequência a demanda por vagas na garagem foi ficando cada vez maior. 
 Max nem sempre vem todos os dias a empresa, porém sua presença é muito importante, portanto, ele tem a necessidade de possuir uma vaga exclusiva para estacionar seu carro, dada a situação, o ideal para ele e para a garagem do prédio seria um sistema em que as pessoas conseguissem reservar sua vaga, e informar a disponibilidade dela, facilitando a vida de todos no ambiente e evitando situações constrangedoras. 
 
-2- Ana Luiza tem 32 anos, trabalha em uma agência de marketing e faz questão de chegar pontualmente em suas reuniões. Ela mora em um bairro movimentado e trabalha em uma área com poucas opções de estacionamento. A rotina diária de encontrar uma vaga próxima ao escritório é um desafio, especialmente em horários de pico. 
+Persona 2 
+Ana Luiza tem 32 anos, trabalha em uma agência de marketing e faz questão de chegar pontualmente em suas reuniões. Ela mora em um bairro movimentado e trabalha em uma área com poucas opções de estacionamento. A rotina diária de encontrar uma vaga próxima ao escritório é um desafio, especialmente em horários de pico. 
 Ana valoriza a conveniência e a economia de tempo. Ela quer um aplicativo que a ajude a encontrar vagas de estacionamento rapidamente, sem precisar ficar circulando ou arriscando multas. Segurança e praticidade são essenciais para ela. 
 
-3-João Pedro é um empresário de 45 anos, e um dos seus maiores empreendimento corresponde a um shopping no centro da cidade de São Paulo. 
+Persona 3 
+João Pedro é um empresário de 45 anos, e um dos seus maiores empreendimento corresponde a um shopping no centro da cidade de São Paulo. 
 Graças a sua localização privilegiada, a estrutura possui um grande fluxo de pessoas basicamente todos os dias, e apesar de ser muito lucrativo para o local, esse acontecimento vem gerando grandes problemas quando o assunto é vagas para estacionar. 
 Os clientes do shopping saem de casa sem saber basicamente se vão conseguir colocar seu carro em um local seguro dentro do shopping, ou vão correr o risco de estacionar fora do estabelecimento, fazendo com que eles repensem se realmente é necessário ir até o ambiente comercial. 
 Tendo essa situação o ideal para João seria a implementação de uma plataforma em que os clientes conseguissem agenda as vagas para estacionar com antecedência, evitando situações desagradáveis e sempre garantindo a praticidade e a tranquilidade para que eles possam se deslocar para o shopping. 
 
-4- Roberto Carlos é gerente de um estacionamento no entorno da Raja Gabaglia, uma das avenidas mais movimentadas da Grande Belo Horizonte. 
+Persona 4
+Roberto Carlos é gerente de um estacionamento no entorno da Raja Gabaglia, uma das avenidas mais movimentadas da Grande Belo Horizonte. 
 Esse ponto específico da cidade é referência em carros e em qualquer coisa na area de mecânica automotiva, além de ser um grande polo empresarial também, por esses motivos o movimento na area é muito grande e Roberto muitas vezes perde o controle na administração do seu negócio. 
 Para maximizar a ocupação de vagas no estacionamento e minimizar o tempo ocioso evitando o conflito entre os clientes, Roberto está em busca de uma ferramenta que simplifique a administração diária do estacionamento com um monitoramento de vagas e controle de reservas. 
 
-5- Katarina Valentina tem 43 anos e é dona de um mercado em um bairro residencial na cidade de Belo Horizonte, o local conta com um estacionamento de porte médio com vaga para cerca de 23 veículos. 
+Persona 5
+Katarina Valentina tem 43 anos e é dona de um mercado em um bairro residencial na cidade de Belo Horizonte, o local conta com um estacionamento de porte médio com vaga para cerca de 23 veículos. 
 O comercio de Katarina costuma ser bem movimentado por ser unanimidade na região, e graças a esse acontecimento muitas vezes a quantidade de vagas no seu estacionamento não é suficiente para suportar a carga de cliente em períodos de movimento maior, portanto para resolver essa situação ela busca uma solução para que os clientes consigam reservar suas vagas no estacionamento de acordo com o tempo que irão ficar no supermercado, fazendo com que seu empreendimento atenda a maior quantidade de clientes possível em um determinado dia. 
 
 
