@@ -14,11 +14,11 @@ Segundo o artigo de (Karine Nobre do site a gazeta [1]), a frota de veículos cr
   
   A instabilidade de informações sobre a disponibilidade de vagas leva a decisões ineficientes, com motoristas frequentemente circulando por longos períodos até encontrar um local para estacionar, locais com baixa segurança e necessidade de longos deslocamentos a pé.
 
-  Inspirado por alguns modelos de plataformas que conectam anfitriões e viajantes, EstacionAí conectará motoristas a vagas de estacionamento disponíveis de forma eficiente e segura.
-  A ideia é otimizar o uso dos espaços de estacionamento existentes e proporcionar uma experiência conveniente e descomplicada aos usuários e locatários, aliviando a pressão sobre o tráfego urbano e facilitando o planejamento de deslocamentos, para os mais variados tipos de motoristas; urbanos, regulares, turistas, visitantes, profissionais em deslocamento, residentes, etc.  
-   EstacionAí permite também que proprietários de espaços ociosos rentabilizem suas vagas, desde individuos até empresas; proprietários de garagens residenciais,  empresas de estacionamento, estabelecimentos comerciais, proprietários de terrenos desocupados, etc. 
+    Inspirado por alguns modelos de plataformas que conectam anfitriões e viajantes, EstacionAí conectará motoristas a vagas de estacionamento disponíveis de forma eficiente e segura.
+    A ideia é otimizar o uso dos espaços de estacionamento existentes e proporcionar uma experiência conveniente e descomplicada aos usuários e locatários, aliviando a pressão sobre o tráfego urbano e facilitando o planejamento de deslocamentos, para os mais variados tipos de motoristas; urbanos, regulares, turistas, visitantes, profissionais em deslocamento, residentes, etc.  
+     EstacionAí permite também que proprietários de espaços ociosos rentabilizem suas vagas, desde individuos até empresas; proprietários de garagens residenciais,  empresas de estacionamento, estabelecimentos comerciais, proprietários de terrenos desocupados, etc. 
    
-   Para além de atender e ajudar a conectar motorista a vagas de estacionamento a EstacionAí contribui para uma solução sustentável e colaborativa para o problema urbano.
+     Para além de atender e ajudar a conectar motorista a vagas de estacionamento a EstacionAí contribui para uma solução sustentável e colaborativa para o problema urbano.
 
 
 ## Problema
