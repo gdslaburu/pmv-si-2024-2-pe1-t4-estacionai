@@ -23,7 +23,7 @@ Segundo o artigo de (Karine Nobre do site a gazeta [1]), a frota de veículos cr
 
 ## Problema
 
- A falta de transparência e um sistema eficiente que permita aos motoristas localizar e reservar vagas de estacionamento de maneira antecipada e segura, resulta em decisões ineficientes, frustração, perda de tempo e recursos (combustível), com motoristas frequentemente circulando por longos períodos até encontrar um local para estacionar é um desafio comum nas grandes cidades, cidades turísticas, onde a demanda por estacionamento em muitos casos excede a oferta, resultando em congestionamentos, aumento do tempo de viagem e frustração para motoristas.
+ A falta de um sistema eficiente que permita aos motoristas localizar e reservar vagas de estacionamento de maneira antecipada e segura, resulta em decisões ineficientes, frustração, perda de tempo e recursos (combustível), com motoristas frequentemente circulando por longos períodos até encontrar um local para estacionar é um desafio comum nas grandes cidades, cidades turísticas, onde a demanda por estacionamento em muitos casos excede a oferta, resultando em congestionamentos, aumento do tempo de viagem e frustração para motoristas.
 Em muitos casos, espaços de estacionamento privados ou comerciais ficam ociosos por longos períodos, representando uma oportunidade de rentabilização que não é aproveitada.
 
 A escassez de vagas pode levar a aumentos de custos, uso inadequado de espaços públicos, e até mesmo impactos ambientais, como a emissão de poluentes devido ao tempo adicional que os motoristas passam dirigindo à procura de vagas. 
