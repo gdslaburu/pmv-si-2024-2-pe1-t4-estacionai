@@ -48,7 +48,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | João Pedro | Organizar a Distrubuição de Vagas no Estacionamento do meu Shopping | Garantir a Segurança dos Veiculos dos Clientes e Simplificar a Locomoção até seu Estabelecimento |
 | Roberto Carlos | Maximizar a Ocupação de Vagas no meu Estacionamento | Garantir Maior Controle Sobre o Fluxo de Veiculos e Sobre o Tempo |
 | Katarina Valentina | Disponibilizar Reservas das Vagas do Estacionamento do meu Mercado de Forma que a Demanda Seja Completamente Atendida | Organizar o Fluxo de Clientes Para Maior Aproveitamento e Garantir Sempre o Maior Número de Clientes |
-| Kevin Mahamd | Reservar Uma Vaga de Forma Confiavel | Garantir um Local Seguro Para Estacionar seu Veiculos que Esteja Desponivel Após o Horario de Fechamento |
+| Kevin Mahamd | Reservar Uma Vaga de Forma Confiavel | Garantir um Local Seguro Para Estacionar seu Veiculos que Esteja Desponivel 24 Horas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
