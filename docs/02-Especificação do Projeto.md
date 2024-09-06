@@ -38,32 +38,32 @@ O projeto busca oferecer uma solução tecnológica para a melhoria da mobilidad
 ## Personas
 
 #### Persona 1
-Maximiliano Augusto tem 40 anos, atualmente é o analista de sistemas da Infracon Engenharia, uma empresa que atua no ramo da construção civil e vem crescendo cada dia mais. 
-Graças a esse crescimento o número de pessoas trabalhando no escritório central teve um aumento significativo, e como consequência a demanda por vagas na garagem foi ficando cada vez maior. 
-Max nem sempre vem todos os dias a empresa, porém sua presença é muito importante, portanto, ele tem a necessidade de possuir uma vaga exclusiva para estacionar seu carro, dada a situação, o ideal para ele e para a garagem do prédio seria um sistema em que as pessoas conseguissem reservar sua vaga, e informar a disponibilidade dela, facilitando a vida de todos no ambiente e evitando situações constrangedoras. 
+Maximiliano Augusto tem 40 anos e, atualmente,é o analista de sistemas da Infracon Engenharia, uma empresa que atua no ramo da construção civil e vem crescendo cada dia mais. 
+Graças a esse crescimento, o número de pessoas trabalhando no escritório central teve um aumento significativo e, como consequência, a demanda por vagas na garagem foi ficando cada vez maior. 
+Max nem sempre vem todos os dias à empresa; porém, sua presença é muito importante.Portanto, ele tem a necessidade de possuir uma vaga exclusiva para estacionar seu carro.Dada a situação, o ideal para ele e para a garagem do prédio seria um sistema em que as pessoas conseguissem reservar sua vaga e informar a disponibilidade dela, facilitando a vida de todos no ambiente e evitando situações constrangedoras. 
 
 #### Persona 2 
 Ana Luiza tem 32 anos, trabalha em uma agência de marketing e faz questão de chegar pontualmente em suas reuniões. Ela mora em um bairro movimentado e trabalha em uma área com poucas opções de estacionamento. A rotina diária de encontrar uma vaga próxima ao escritório é um desafio, especialmente em horários de pico. 
-Ana valoriza a conveniência e a economia de tempo. Ela quer um aplicativo que a ajude a encontrar vagas de estacionamento rapidamente, sem precisar ficar circulando ou arriscando multas. Segurança e praticidade são essenciais para ela. 
+Ana valoriza a conveniência e a economia de tempo. Ela quer um plataforma que a ajude a encontrar vagas de estacionamento rapidamente, sem precisar ficar circulando ou arriscando receber multas. Segurança e praticidade são essenciais para ela. 
 
 #### Persona 3 
-João Pedro é um empresário de 45 anos, e um dos seus maiores empreendimento corresponde a um shopping no centro da cidade de São Paulo. 
-Graças a sua localização privilegiada, a estrutura possui um grande fluxo de pessoas basicamente todos os dias, e apesar de ser muito lucrativo para o local, esse acontecimento vem gerando grandes problemas quando o assunto é vagas para estacionar. 
-Os clientes do shopping saem de casa sem saber basicamente se vão conseguir colocar seu carro em um local seguro dentro do shopping, ou vão correr o risco de estacionar fora do estabelecimento, fazendo com que eles repensem se realmente é necessário ir até o ambiente comercial. 
-Tendo essa situação o ideal para João seria a implementação de uma plataforma em que os clientes conseguissem agenda as vagas para estacionar com antecedência, evitando situações desagradáveis e sempre garantindo a praticidade e a tranquilidade para que eles possam se deslocar para o shopping. 
+João Pedro é um empresário de 45 anos e um dos seus maiores empreendimentos corresponde a um shopping no centro da cidade de São Paulo. 
+Graças à sua localização privilegiada, a estrutura possui um grande fluxo de pessoas basicamente todos os dias e, apesar de ser muito lucrativo para o local, esse fator vem gerando grandes problemas quando o assunto é vagas para estacionar. 
+Os clientes do shopping saem de casa sem saber se conseguirão colocar seu carro em um local seguro dentro do shopping ou se correrão o risco de estacionar fora do estabelecimento, o que faz com que repensem se realmente é necessário ir até o ambiente comercial. 
+Diante dessa situação, o ideal para João seria a implementação de uma plataforma em que os clientes conseguissem agendar as vagas para estacionar com antecedência, evitando situações desagradáveis e garantindo sempre a praticidade e tranquilidade para que eles possam se deslocar para o shopping. 
 
 #### Persona 4
 Roberto Carlos é gerente de um estacionamento no entorno da Raja Gabaglia, uma das avenidas mais movimentadas da Grande Belo Horizonte. 
-Esse ponto específico da cidade é referência em carros e em qualquer coisa na area de mecânica automotiva, além de ser um grande polo empresarial também, por esses motivos o movimento na area é muito grande e Roberto muitas vezes perde o controle na administração do seu negócio. 
-Para maximizar a ocupação de vagas no estacionamento e minimizar o tempo ocioso evitando o conflito entre os clientes, Roberto está em busca de uma ferramenta que simplifique a administração diária do estacionamento com um monitoramento de vagas e controle de reservas. 
+Esse ponto específico da cidade é referência em carros e em qualquer coisa na area de mecânica automotiva, além de ser um grande polo empresarial também.Por esses motivos, o movimento na área é muito grande e Roberto muitas vezes perde o controle na administração do seu negócio. 
+Para maximizar a ocupação de vagas no estacionamento e minimizar o tempo ocioso, evitando conflitos entre os clientes, Roberto está em busca de uma ferramenta que simplifique a administração diária do estacionamento com monitoramento de vagas e controle de reservas. 
 
 #### Persona 5
-Katarina Valentina tem 43 anos e é dona de um mercado em um bairro residencial na cidade de Belo Horizonte, o local conta com um estacionamento de porte médio com vaga para cerca de 23 veículos. 
-O comercio de Katarina costuma ser bem movimentado por ser unanimidade na região, e graças a esse acontecimento muitas vezes a quantidade de vagas no seu estacionamento não é suficiente para suportar a carga de cliente em períodos de movimento maior, portanto para resolver essa situação ela busca uma solução para que os clientes consigam reservar suas vagas no estacionamento de acordo com o tempo que irão ficar no supermercado, fazendo com que seu empreendimento atenda a maior quantidade de clientes possível em um determinado dia. 
+Katarina Valentina tem 43 anos e é dona de um mercado em um bairro residencial na cidade de Belo Horizonte.O local conta com um estacionamento de porte médio, com vaga para cerca de 23 veículos. 
+O comércio de Katarina costuma ser bem movimentado por ser unanimidade na região e, graças a esse acontecimento, muitas vezes a quantidade de vagas no seu estacionamento não é suficiente para suportar a carga de clientes em períodos de movimento maior.Portanto, para resolver essa situação, ela busca uma solução para que os clientes consigam reservar suas vagas no estacionamento de acordo com o tempo que irão ficar no supermercado, fazendo com que seu empreendimento atenda à maior quantidade de clientes possível em um determinado dia. 
 
 #### Persona 6
-Kevin Mahamad tem 24 anos e Trabalha durante o Turno Noturno em uma empresa iniciante, em que seu horario de sainda acaba por ser depois do horario de fechamento da maioria dos estabelecimentos.
-Graças a seu horario tardio de saida acaba se tornando um grande desafio garantir um local seguro, para estacionar seu veiculo, que esteja aberto durante o periodo em que ele inicia o turno em seu trabalho até o periodo em que ele encerra seu turno.
+Kevin Mahamad tem 24 anos e trabalha durante o turno noturno em uma empresa iniciante, em que seu horário de saida acaba por ser depois do horário de fechamento da maioria dos estabelecimentos.
+Graças ao seu horário tardio de saída, acaba se tornando um grande desafio garantir um local seguro para estacionar seu veículo, que esteja aberto durante o período em que ele inicia o turno em seu trabalho até o periodo em que encerra seu turno.
 
 
 ## Histórias de Usuários
@@ -72,7 +72,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO...| QUERO/PRECISO ...  |PARA ...|
 |--------------------|------------------------------------|----------------------------------------|
-| Maximiliano Augusto | Reservar uma Vaga no Estacionamento da Empresa em que Trabalho nos Dias em que sou Necessario | Garantir Minha Prensença de Forma Pontual no Trabalho|
+| Maximiliano Augusto | Reservar uma vaga no estacionamento da Empresa em que Trabalho nos Dias em que sou Necessario | Garantir Minha Prensença de Forma Pontual no Trabalho|
 | Ana Luiza | Reservar uma Vaga Proxima de meu Local de Trabalho | Assegurar a Pontualidade e Prevenir Imprevistos na Locomoção até o Trabalho  |
 | João Pedro | Organizar a Distrubuição de Vagas no Estacionamento do meu Shopping | Garantir a Segurança dos Veiculos dos Clientes e Simplificar a Locomoção até seu Estabelecimento |
 | Roberto Carlos | Maximizar a Ocupação de Vagas no meu Estacionamento | Garantir Maior Controle Sobre o Fluxo de Veiculos e Sobre o Tempo |
