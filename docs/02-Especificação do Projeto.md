@@ -39,11 +39,11 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO...| QUERO/PRECISO ...  |PARA ...|
 |--------------------|------------------------------------|----------------------------------------|
-|Maximiliano Augusto | Reservar minha vaga no estacionamento da empresa               | Otimizar melhor o meu tempo|
-|Ana Luiza       |Verificar as vagas de estacionamento proximas ao meu local de trabalho|Conseguir estacionar meu carro em um local seguro e sem perder muito tempo  |
-|João Pedro       |Organizar a distrubuição de vagas no estacionamento do meu shopping| evitar a perca de tempo dos cliente que buscam visitar meu estabelecimento |
-|Roberto Carlos      |Maximizar a ocupação de vagas no meu estacionamento|Melhorar a gestão do meu empreendimento|
-|Katarina Valentina      |Organizar o estacionamento no meu mercado|Proporcionar mais conforto aos meus clientes|
+|Maximiliano Augusto | Reservar minha vaga no estacionamento da empresa               | Garantir Minha Prensença de Forma Pontual no Trabalho|
+|Ana Luiza       |Verificar as vagas de estacionamento proximas ao meu local de trabalho| Assegurar a Pontualidade e Prevenir Imprevistos na Locomoção até o Trabalho  |
+|João Pedro       |Organizar a distrubuição de vagas no estacionamento do meu shopping| Garantir a Segurança dos Veiculos dos Clientes e Simplificar a Locomoção até seu Estabelecimento |
+|Roberto Carlos      |Maximizar a ocupação de vagas no meu estacionamento| Garantir Maior Controle Sobre o Fluxo de Veiculos e Sobre o Tempo |
+|Katarina Valentina      |Organizar o estacionamento no meu mercado| Organizar o Fluxo de Clientes Para Maior Aproveitamento e Garantir Sempre o Maior Número de Clientes |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
