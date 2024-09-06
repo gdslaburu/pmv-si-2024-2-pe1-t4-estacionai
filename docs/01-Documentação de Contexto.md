@@ -23,11 +23,12 @@ Segundo o artigo de (Karine Nobre do site a gazeta [1]), a frota de veículos cr
 
 ## Problema
 
-  A falta de transparência e um sistema eficiente que permita aos motoristas localizar e reservar vagas de estacionamento de maneira antecipada e segura, resulta em decisões ineficientes, frustração, perda de tempo e recursos (combustível), com motoristas frequentemente circulando por longos períodos até encontrar um local para estacionar. 
-  
-  Este problema afeta diretamente a qualidade de vida dos motoristas locais e visitantes, que perdem tempo e combustível procurando vagas, contribuindo também para o aumento do congestionamento e da poluição ambiental. Em algumas cidades, a dificuldade de encontrar estacionamento pode desencorajar a ida a determinados locais, impactando negativamente o comércio local, a economia,  o turismo e a mobilidade urbana e contribuindo para o aumento do congestionamentoe da poluição ambiental.
-  
-  Isso é significativamente agravado pela dificuldade em prever a disponibilidade de vagas para estacionar, especialmente em áreas urbanas densamente povoadas. 
+ A falta de transparência e um sistema eficiente que permita aos motoristas localizar e reservar vagas de estacionamento de maneira antecipada e segura, resulta em decisões ineficientes, frustração, perda de tempo e recursos (combustível), com motoristas frequentemente circulando por longos períodos até encontrar um local para estacionar é um desafio comum nas grandes cidades, cidades turísticas, onde a demanda por estacionamento em muitos casos excede a oferta, resultando em congestionamentos, aumento do tempo de viagem e frustração para motoristas.
+Em muitos casos, espaços de estacionamento privados ou comerciais ficam ociosos por longos períodos, representando uma oportunidade de rentabilização que não é aproveitada.
+
+A escassez de vagas pode levar a aumentos de custos, uso inadequado de espaços públicos, e até mesmo impactos ambientais, como a emissão de poluentes devido ao tempo adicional que os motoristas passam dirigindo à procura de vagas. 
+
+A EstacionAí vem para oferecer uma solução eficiente conectando motoristas com proprietários de vagas ociosas, otimizar o uso de espaço e reduzir o tempo gasto na busca por estacionamento, contribuindo para uma melhor mobilidade urbana e um uso mais inteligente dos recursos disponíveis.
 
 
 ## Justificativa
