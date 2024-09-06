@@ -34,7 +34,7 @@ O comercio de Katarina costuma ser bem movimentado por ser unanimidade na regiã
 
 ### Persona 6
 Kevin Mahamd tem 24 anos e Trabalha durante o Turno Noturno em uma empresa iniciante, em que seu horario de sainda acaba por ser depois do horario de fechamento da maioria dos estabelecimentos.
-Graças a seu horario tardio de saida acaba se tornando um grande desafio garantir um local seguro para estacionar seu veiculos que esteja aberto durante o periodo em que ele inicia o turno em seu trabalho até o periodo em que ele encerra seu turno.
+Graças a seu horario tardio de saida acaba se tornando um grande desafio garantir um local seguro, para estacionar seu veiculo, que esteja aberto durante o periodo em que ele inicia o turno em seu trabalho até o periodo em que ele encerra seu turno.
 
 
 ## Histórias de Usuários
