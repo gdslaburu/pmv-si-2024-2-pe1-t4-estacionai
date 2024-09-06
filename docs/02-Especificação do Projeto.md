@@ -62,7 +62,7 @@ Katarina Valentina tem 43 anos e é dona de um mercado em um bairro residencial 
 O comércio de Katarina costuma ser bem movimentado por ser unanimidade na região e, graças a esse acontecimento, muitas vezes a quantidade de vagas no seu estacionamento não é suficiente para suportar a carga de clientes em períodos de movimento maior.Portanto, para resolver essa situação, ela busca uma solução para que os clientes consigam reservar suas vagas no estacionamento de acordo com o tempo que irão ficar no supermercado, fazendo com que seu empreendimento atenda à maior quantidade de clientes possível em um determinado dia. 
 
 #### Persona 6
-Kevin Mahamad tem 24 anos e trabalha durante o turno noturno em uma empresa iniciante, em que seu horário de saida acaba por ser depois do horário de fechamento da maioria dos estabelecimentos.
+Kevin Mahamad tem 24 anos e trabalha durante o turno noturno em uma empresa, em que seu horário de saida acaba por ser depois do horário de fechamento da maioria dos estabelecimentos.
 Graças ao seu horário tardio de saída, acaba se tornando um grande desafio garantir um local seguro para estacionar seu veículo, que esteja aberto durante o período em que ele inicia o turno em seu trabalho até o periodo em que encerra seu turno.
 
 
