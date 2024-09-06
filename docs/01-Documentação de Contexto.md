@@ -6,8 +6,6 @@
   A crescente urbanização e o aumento do número de veículos nas cidades têm tornado cada vez mais difícil a busca por vagas de estacionamento disponíveis, especialmente em áreas centrais e comerciais. 
 Segundo o artigo de (Karine Nobre do site a gazeta [1]), a frota de veículos cresceu 43,7% em 12 anos, saltando de 64,8 milhões para 115,1 milhões em 2022. Com o crescimento  da população e também o aumento do número de veículos nas grandes cidades, demonstra uma crescente pressão sobre as infraestruturas urbanas. 
  
-
-
   A busca por vagas de estacionamento em grandes centros urbanos é um problema que impacta diretamente a mobilidade e a qualidade de vida. Uma pesquisa realizada pela EY Consultoria, citada pela Mobilize Brasil ([2]), revelou um déficit de 125 mil vagas no centro expandido de São Paulo, gerando congestionamentos e impactando a mobilidade urbana.
 
   Donald Shoup (apud ESTADÃO, [3]) destaca que a dificuldade em encontrar uma vaga leva os motoristas a desistirem de suas atividades, impactando negativamente o comércio local. O autor estima que um motorista pode levar até 15 minutos para encontrar uma vaga e, caso não a encontre, desiste da visita. Essa desistência representa uma perda de oportunidades de consumo e contribui para o aumento do trânsito.
@@ -15,6 +13,13 @@ Segundo o artigo de (Karine Nobre do site a gazeta [1]), a frota de veículos cr
   Ainda segundo Donald Shoup (apud ESTADÃO, [3])  essa desistência significa que um produto ou serviço deixou de ser consumido e gerou trânsito durante essa jornada, sem falar no estresse e na frustração criados. Alguns estudos afirmam que o volume de vendas em áreas com estacionamento público rotativo aumenta em até 30%.
   
   A instabilidade de informações sobre a disponibilidade de vagas leva a decisões ineficientes, com motoristas frequentemente circulando por longos períodos até encontrar um local para estacionar, locais com baixa segurança e necessidade de longos deslocamentos a pé.
+
+  Inspirado por alguns modelos de plataformas que conectam anfitriões e viajantes, EstacionAí conectará motoristas a vagas de estacionamento disponíveis de forma eficiente e segura.
+  A ideia é otimizar o uso dos espaços de estacionamento existentes e proporcionar uma experiência conveniente e descomplicada aos usuários e locatários, aliviando a pressão sobre o tráfego urbano e facilitando o planejamento de deslocamentos, para os mais variados tipos de motoristas; urbanos, regulares, turistas, visitantes, profissionais em deslocamento, residentes, etc.  
+   EstacionAí permite também que proprietários de espaços ociosos rentabilizem suas vagas, desde individuos até empresas; proprietários de garagens residenciais,  empresas de estacionamento, estabelecimentos comerciais, proprietários de terrenos desocupados, etc. 
+   
+   Para além de atender e ajudar a conectar motorista a vagas de estacionamento a EstacionAí contribui para uma solução sustentável e colaborativa para o problema urbano.
+
 
 ## Problema
 
