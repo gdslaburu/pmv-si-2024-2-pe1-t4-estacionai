@@ -19,7 +19,7 @@ O projeto visa criar uma plataforma digital que permita a motoristas reservar va
 •	Pesquisa e reserva de vagas por geolocalização – vagas próximas e endereço;
 •	Exibição de preços e disponibilidade das vagas;
 •	Cancelamento de reservas com antecedência mínima; 
-•	Notificações de status de reserva.
+•	Notificações de status de reserva. 
 
 #### Requisitos não funcionais:
 •	API de geolocalização (Google Places) para localização de vagas;
@@ -28,6 +28,8 @@ O projeto visa criar uma plataforma digital que permita a motoristas reservar va
 •	Funcionalidade em dispositivos móveis e navegadores principais.
 
 O projeto busca oferecer uma solução tecnológica para a melhoria da mobilidade urbana, promovendo benefícios para motoristas, proprietários de estacionamentos e a economia local, além de contribuir para um ambiente urbano mais sustentável.
+
+
 
 
 ## Personas
