@@ -72,12 +72,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO...| QUERO/PRECISO ...  |PARA ...|
 |--------------------|------------------------------------|----------------------------------------|
-| Maximiliano Augusto | Reservar uma vaga no estacionamento da Empresa em que Trabalho nos Dias em que sou Necessario | Garantir Minha Prensença de Forma Pontual no Trabalho|
-| Ana Luiza | Reservar uma Vaga Proxima de meu Local de Trabalho | Assegurar a Pontualidade e Prevenir Imprevistos na Locomoção até o Trabalho  |
-| João Pedro | Organizar a Distrubuição de Vagas no Estacionamento do meu Shopping | Garantir a Segurança dos Veiculos dos Clientes e Simplificar a Locomoção até seu Estabelecimento |
-| Roberto Carlos | Maximizar a Ocupação de Vagas no meu Estacionamento | Garantir Maior Controle Sobre o Fluxo de Veiculos e Sobre o Tempo |
-| Katarina Valentina | Disponibilizar Reservas das Vagas do Estacionamento do meu Mercado de Forma que a Demanda Seja Completamente Atendida | Organizar o Fluxo de Clientes Para Maior Aproveitamento e Garantir Sempre o Maior Número de Clientes |
-| Kevin Mahamad | Reservar Uma Vaga de Forma Confiavel | Garantir um Local Seguro Para Estacionar seu Veiculos que Esteja Desponivel 24 Horas |
+| Maximiliano Augusto | Reservar uma vaga no estacionamento da empresa nos dias em que trabalha de forma presencial | Garantir a prensença de forma pontual no trabalho|
+| Ana Luiza | Reservar uma vaga proxima ao local de trabalho | Assegurar a pontualidade e prevenir imprevistos na locomoção até o trabalho  |
+| João Pedro | Organizar a distrubuição de vagas no estacionamento do Shopping | Garantir a Segurança dos veiculos dos clientes e simplificar a locomoção até seu estabelecimento |
+| Roberto Carlos | Maximizar a ocupação de vagas no estacionamento | Garantir maior controle sobre o fluxo de veiculos e sobre o tempo |
+| Katarina Valentina | Disponibilizar reservas das vagas do estacionamento do mercado de forma que a demanda seja completamente atendida | Organizar o fluxo de clientes para maior aproveitamento e garantir sempre o maior número de clientes |
+| Kevin Mahamad | Reservar uma vaga de forma confiável | Garantir um local seguro para estacionar seu veiculo e que esteja disponível 24 Horas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
