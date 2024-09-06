@@ -2,7 +2,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-
 ### Plataforma de gestão de vagas de estacionamento
 
 O projeto visa criar uma plataforma digital que permita a motoristas reservar vagas de estacionamento de forma prática e antecipada, e a proprietários de estacionamentos gerenciarem suas vagas. A plataforma buscará melhorar a mobilidade urbana, reduzir congestionamentos e oferecer mais segurança e comodidade aos usuários.
@@ -28,6 +27,9 @@ O projeto visa criar uma plataforma digital que permita a motoristas reservar va
 •	Funcionalidade em dispositivos móveis e navegadores principais.
 
 O projeto busca oferecer uma solução tecnológica para a melhoria da mobilidade urbana, promovendo benefícios para motoristas, proprietários de estacionamentos e a economia local, além de contribuir para um ambiente urbano mais sustentável.
+
+
+
 
 
 
