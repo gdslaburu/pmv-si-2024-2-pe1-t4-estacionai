@@ -39,7 +39,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO...| QUERO/PRECISO ...  |PARA ...|
 |--------------------|------------------------------------|----------------------------------------|
-|Maximiliano Augusto | Reservar minha vaga no estacionamento da empresa               | Garantir Minha Prensença de Forma Pontual no Trabalho|
+|Maximiliano Augusto | Reservar minha vaga no estacionamento da empresa em que Trabalho nos Dias em que sou Necessario | Garantir Minha Prensença de Forma Pontual no Trabalho|
 |Ana Luiza       |Verificar as vagas de estacionamento proximas ao meu local de trabalho| Assegurar a Pontualidade e Prevenir Imprevistos na Locomoção até o Trabalho  |
 |João Pedro       |Organizar a distrubuição de vagas no estacionamento do meu shopping| Garantir a Segurança dos Veiculos dos Clientes e Simplificar a Locomoção até seu Estabelecimento |
 |Roberto Carlos      |Maximizar a ocupação de vagas no meu estacionamento| Garantir Maior Controle Sobre o Fluxo de Veiculos e Sobre o Tempo |
