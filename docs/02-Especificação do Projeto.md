@@ -2,9 +2,32 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+# ESPECIFICAÇÃO DO PROJETO: PLATAFORMA DE GESTÃO DE VAGAS DE ESTACIONAMENTO
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+O projeto visa criar uma plataforma digital que permita a motoristas reservar vagas de estacionamento de forma prática e antecipada, e a proprietários de estacionamentos gerenciarem suas vagas. A plataforma buscará melhorar a mobilidade urbana, reduzir congestionamentos e oferecer mais segurança e comodidade aos usuários.
+
+#### Para Administradores (Proprietários):
+•	Cadastrar estabelecimento e login;
+•	Cadastrar, confirmação e cancelamento de reserva;
+•	Cadastrar e gerenciamento de vagas; 
+•	Definição de preços (por hora, dia, mês); 
+•	Visualização de reservas e relatórios de ocupação; 
+
+#### Para Usuários (Motoristas):
+•	Cadastro e login;
+•	Pesquisa e reserva de vagas por geolocalização – vagas próximas e endereço;
+•	Exibição de preços e disponibilidade das vagas;
+•	Cancelamento de reservas com antecedência mínima; 
+•	Notificações de status de reserva. 
+
+#### Requisitos não funcionais:
+•	API de geolocalização (Google Places) para localização de vagas;
+•	HTML, CSS, JavaScript para interface e interação do usuário;
+•	JSON-Server para gestão de dados;
+•	Funcionalidade em dispositivos móveis e navegadores principais.
+
+O projeto busca oferecer uma solução tecnológica para a melhoria da mobilidade urbana, promovendo benefícios para motoristas, proprietários de estacionamentos e a economia local, além de contribuir para um ambiente urbano mais sustentável.
+
 
 ## Personas
 
