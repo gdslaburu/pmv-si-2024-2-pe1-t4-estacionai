@@ -33,7 +33,7 @@ A EstacionAí vem para oferecer uma solução eficiente conectando motoristas co
 
 ## Justificativa
 
-A criação de uma plataforma dedicada à localização de vagas de estacionamento surge a partir da crescente demanda por soluções tecnológicas que otimizem a mobilidade urbana. Encontrar uma vaga de estacionamento tornou-se um desafio diário para usuários de estacionamentos privados, o que acaba por vezes desapontando o consumidor e gera prejuízos para o proprietários de estacionamento, já que a chance de retorno desses clientes a esses locais tendem a diminuir após a primeira experiencia frustrada. 
+Encontrar uma vaga de estacionamento tornou-se um desafio diário para usuários de estacionamentos privados, o que acaba por vezes desapontando o consumidor e gera prejuízos para o proprietários de estacionamento, já que a chance de retorno desses clientes a esses locais tendem a diminuir após a primeira experiencia frustrada. 
 
 Desse modo, a plataforma proposta oferecerá ao usuário a possibilidade de agendar local e horário da vaga com antecedência, o que irá gerar ao cliente segurança ao sair de casa, uma vez que, não irá precisar mudar sua rota por falta de local para estacionar. Consequentemente, ao ir direto a vaga agendada o usuário estará também reduzindo a emissão de gases poluentes. Este avanço é fundamental para promover uma mobilidade mais sustentável e um ecossistema urbano mais limpo.
 
