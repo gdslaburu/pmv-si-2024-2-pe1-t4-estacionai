@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-#### ESPECIFICAÇÃO DO PROJETO: PLATAFORMA DE GESTÃO DE VAGAS DE ESTACIONAMENTO
+#### Plataforma de gestão de vagas de estacionamento
 
 O projeto visa criar uma plataforma digital que permita a motoristas reservar vagas de estacionamento de forma prática e antecipada, e a proprietários de estacionamentos gerenciarem suas vagas. A plataforma buscará melhorar a mobilidade urbana, reduzir congestionamentos e oferecer mais segurança e comodidade aos usuários.
 
