@@ -68,4 +68,4 @@ MOBILIZE BRASIL. Estacionamentos: vilões da mobilidade urbana. Disponível em: 
 
 ESTADÃO. Mobilidade democrática e sustentável. Disponível em: https://mobilidade.estadao.com.br/meios-de-transporte/carro/mobilidade-democratica-e-sustentavel/. Acesso em: 28 de agosto de 2024.
 
-PIPHOMED. Imagem da introdução. Disponível em: [link]. Acesso em: 05 de setembro de 2024.
+PIPHOMED. Imagem da introdução. Disponível em: [[link](https://de.freepik.com/fotos-premium/parkplatz-von-oben-gesehen-luftaufnahme-draufsicht_74416332.htm)]. Acesso em: 05 de setembro de 2024.
