@@ -4,21 +4,21 @@
 
 ### Plataforma de gestão de vagas de estacionamento
 
-O projeto visa criar uma plataforma digital que permita a motoristas reservar vagas de estacionamento de forma prática e antecipada, e a proprietários de estacionamentos gerenciarem suas vagas. A plataforma buscará melhorar a mobilidade urbana, reduzir congestionamentos e oferecer mais segurança e comodidade aos usuários.
+O projeto visa criar uma plataforma digital que permita aos motoristas reservar vagas de estacionamento de forma prática e antecipada, e aos proprietários de estacionamentos gerenciar suas vagas. A plataforma buscará melhorar a mobilidade urbana, reduzir congestionamentos e oferecer mais segurança e comodidade aos usuários.
 
 #### Para Administradores (Proprietários):
 Cadastrar estabelecimento e login;
-Cadastrar, confirmação e cancelamento de reserva;
-Cadastrar e gerenciamento de vagas; 
-Definição de preços (por hora, dia, mês); 
-Visualização de reservas e relatórios de ocupação; 
+Cadastrar, confirmar e cancelar reserva;
+Cadastrar e gerenciar vagas; 
+Definir preços (por hora, dia, mês); 
+Visualizar reservas e relatórios de ocupação; 
 
 #### Para Usuários (Motoristas):
-Cadastro e login;
-Pesquisa e reserva de vagas por geolocalização – vagas próximas e endereço;
-Exibição de preços e disponibilidade das vagas;
-Cancelamento de reservas com antecedência mínima; 
-Notificações de status de reserva. 
+Cadastrar e logar;
+Pesquisar e reservar de vagas por geolocalização – vagas próximas e endereço;
+Exibir preços e disponibilidade das vagas;
+Cancelar reservas com antecedência mínima; 
+Receber notificações de status de reserva. 
 
 #### Requisitos não funcionais:
 API de geolocalização (Google Places) para localização de vagas;
@@ -29,18 +29,12 @@ Funcionalidade em dispositivos móveis e navegadores principais.
 O projeto busca oferecer uma solução tecnológica para a melhoria da mobilidade urbana, promovendo benefícios para motoristas, proprietários de estacionamentos e a economia local, além de contribuir para um ambiente urbano mais sustentável.
 
 
-
-
-
-
-
-
 ## Personas
 
 #### Persona 1
 Maximiliano Augusto tem 40 anos e, atualmente,é o analista de sistemas da Infracon Engenharia, uma empresa que atua no ramo da construção civil e vem crescendo cada dia mais. 
 Graças a esse crescimento, o número de pessoas trabalhando no escritório central teve um aumento significativo e, como consequência, a demanda por vagas na garagem foi ficando cada vez maior. 
-Max nem sempre vem todos os dias à empresa; porém, sua presença é muito importante.Portanto, ele tem a necessidade de possuir uma vaga exclusiva para estacionar seu carro.Dada a situação, o ideal para ele e para a garagem do prédio seria um sistema em que as pessoas conseguissem reservar sua vaga e informar a disponibilidade dela, facilitando a vida de todos no ambiente e evitando situações constrangedoras. 
+Max nem sempre vem todos os dias à empresa; porém, sua presença é muito importante.Portanto, ele tem a necessidade de possuir uma vaga para estacionar seu carro. Dada a situação, o ideal para ele e para a garagem do prédio seria um sistema em que as pessoas conseguissem reservar sua vaga e informar a disponibilidade dela, facilitando a vida de todos no ambiente e evitando situações constrangedoras. 
 
 #### Persona 2 
 Ana Luiza tem 32 anos, trabalha em uma agência de marketing e faz questão de chegar pontualmente em suas reuniões. Ela mora em um bairro movimentado e trabalha em uma área com poucas opções de estacionamento. A rotina diária de encontrar uma vaga próxima ao escritório é um desafio, especialmente em horários de pico. 
@@ -74,10 +68,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 | Maximiliano Augusto | Reservar uma vaga no estacionamento da empresa nos dias em que trabalha de forma presencial | Garantir a prensença de forma pontual no trabalho|
 | Ana Luiza | Reservar uma vaga proxima ao local de trabalho | Assegurar a pontualidade e prevenir imprevistos na locomoção até o trabalho  |
-| João Pedro | Organizar a distrubuição de vagas no estacionamento do Shopping | Garantir a Segurança dos veiculos dos clientes e simplificar a locomoção até seu estabelecimento |
-| Roberto Carlos | Maximizar a ocupação de vagas no estacionamento | Garantir maior controle sobre o fluxo de veiculos e sobre o tempo |
+| João Pedro | Organizar a distrubuição de vagas no estacionamento do Shopping | Garantir a Segurança dos veículos dos clientes e simplificar a locomoção até seu estabelecimento |
+| Roberto Carlos | Maximizar a ocupação de vagas no estacionamento | Garantir maior controle sobre o fluxo de veículos e sobre o tempo |
 | Katarina Valentina | Disponibilizar reservas das vagas do estacionamento do mercado de forma que a demanda seja completamente atendida | Organizar o fluxo de clientes para maior aproveitamento e garantir sempre o maior número de clientes |
-| Kevin Mahamad | Reservar uma vaga de forma confiável | Garantir um local seguro para estacionar seu veiculo e que esteja disponível 24 Horas |
+| Kevin Mahamad | Reservar uma vaga de forma confiável | Garantir um local seguro para estacionar seu veículo e que esteja disponível 24 Horas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
