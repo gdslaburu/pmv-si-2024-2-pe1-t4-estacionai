@@ -81,19 +81,21 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o proprietário cadastre seu estabelecimento | ALTA |
 |RF-002| Permitir que o proprietário crie e atualize as vagas  | ALTA |
-|RF-003| Permitir que o proprietário visualize as vagas  | ALTA |
-|RF-004| Permitir que o proprietário confirme uma reserva | ALTA |
-|RF-005| Permitir que o proprietário cancele uma reserva | ALTA |
-|RF-006| Permitir que o proprietário defina preços por hora, dia, ou mês para as vagas | ALTA |
+|RF-003| Permitir que o proprietário visualize as vagas  | BAIXA |
+|RF-004| Permitir que o proprietário confirme uma reserva | MÉDIO |
+|RF-005| Permitir que o proprietário cancele uma reserva | BAIXO |
+|RF-006| Permitir que o proprietário defina preços por hora, dia, ou mês para as vagas | MÉDIA |
 |RF-007| Implementar um sistema de login | ALTA |
 |RF-008| Permitir que o usuário pesquise vagas de estacionamento por local | ALTA |
-|RF-009| Exibir para o usuário as vagas de estacionamento mais próximas a ele | ALTA |
-|RF-010| Permitir que o usuário reserve uma vaga de estacionamento por hora, dia ou mês | ALTA |
-|RF-011| Exibir o preço da vaga antes de concluir a reserva | ALTA |
-|RF-012| Permitir que o usuário cancele uma reserva, com antecedência de até 1h | ALTA |
-|RF-013| Notificar o usuário sobre o status de suas reservas (confirmada, cancelada, etc.) | ALTA |
-|RF-014| Exibir um resumo para o proprietário de quantas vagas foram alocadas diariamente,semanalmente e mensalmente | MÉDIA |
-|RF-015| Permitir que os usuários atualizem e visualizem seus perfis | MÉDIA |
+|RF-009| Exibir para o usuário as vagas de estacionamento mais próximas a ele | MÉDIA |
+|RF-010| Permitir que o usuário reserve uma vaga de estacionamento por hora, dia ou mês | MÉDIO |
+|RF-011| Exibir o preço da vaga antes de concluir a reserva | BAIXO |
+|RF-012| Permitir que o usuário cancele uma reserva | BAIXO |
+|RF-013| Notificar o usuário sobre o status de suas reservas (confirmada, cancelada, etc.) | BAIXO |
+|RF-014| Exibir um resumo para o proprietário de quantas vagas foram alocadas diariamente,semanalmente e mensalmente | BAIXA |
+|RF-015| Permitir que os usuários atualizem e visualizem seus perfis | BAIXA |
+|RF-016| Permitir que o proprietário defina um tempo limite de cancelamento | BAIXA |
+
 
 ### Requisitos não Funcionais
 
@@ -122,4 +124,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |04| A plataforma só pode ser acessada via navegadores, não sendo permitido o desenvolvimento de um aplicativo nativo|
 |05| O sistema poderá operar somente em língua portuguesa |
 |06| O uso de APIs externas, seguindo os limites de chamadas gratuitas da API, sem versões pagas |
+
 
