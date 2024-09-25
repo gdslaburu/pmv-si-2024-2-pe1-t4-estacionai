@@ -29,8 +29,8 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 | Etapa         | Atividades |
 |  :----:   | ----------- |
-| ETAPA 1         |[Documentação de Contexto](docs/context.md) <br> [Especificação do Projeto](docs/especification.md) |
-| ETAPA 2         |[Projeto de Interface](docs/interface.md) <br> [Template Padrão](docs/template.md) |
+| ETAPA 1         |[Documentação de Contexto](docs/01-Documentação de Contexto.md") <br> [Especificação do Projeto](docs/02-Especificação do Projeto.md) |
+| ETAPA 2         |[Projeto de Interface](docs/04-Projeto de Interface.md) <br> [Template Padrão](docs/06-Template padrão do Site.md) |
 | ETAPA 3         |[Programação de Funcionalidades - HTML e CSS](docs/development.md) |
 | ETAPA 4        |[Programação de Funcionalidades - Javascript](docs/development.md) <br> [Testes de Software ](docs/tests.md) |
 | ETAPA 5         | [Apresentação](presentation/README.md) |
@@ -42,3 +42,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Apresentação
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+
