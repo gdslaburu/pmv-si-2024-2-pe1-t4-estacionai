@@ -1,4 +1,5 @@
-![Exemplo de UserFlow](img/Fluxograma Definitivo.jpg)
+![Fluxograma Definitivo](https://github.com/user-attachments/assets/02d323e6-7248-4995-b882-34c8e9a06c80)
+
 # Projeto de Interface
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
