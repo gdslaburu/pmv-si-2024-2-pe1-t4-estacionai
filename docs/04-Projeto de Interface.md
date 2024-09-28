@@ -1,6 +1,7 @@
 ## Fluxo de usuário
 
-![Fluxograma Definitivo](https://github.com/user-attachments/assets/02d323e6-7248-4995-b882-34c8e9a06c80)
+![Fluxograma Definitivo](https://github.com/user-attachments/assets/7b7f38e0-f58d-4345-9901-d505a59514bd)
+
 
 
 ## Wireframes
