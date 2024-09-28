@@ -1,6 +1,6 @@
 # Template padrão do site
 
-![Home](https://github.com/user-attachments/assets/f6a64e55-648a-488f-83fe-3174428674bb)
+![Home](https://github.com/user-attachments/assets/cee4bc27-3952-4e0c-b02c-01acc8a69e0f)
 ![Sobre Nós (1)](https://github.com/user-attachments/assets/afa5d8b8-22d9-4f6d-be63-0fbe5fe292c8)
 ![Perguntas Frequentes](https://github.com/user-attachments/assets/d5df9d14-1faa-49d4-9f68-d9b5ee89ee0d)
 
