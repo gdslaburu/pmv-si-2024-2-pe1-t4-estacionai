@@ -12,6 +12,9 @@ Mapear as principais interações do usuário e os processos que ocorrem no site
 
 Representação visual de como a página ou interface do site da ####Estacionaí será organizada, antes de iniciar o design detalhado e o desenvolvimento. O esqueleto da interface, focando na estrutura e no layout, um protótipo com cores, imagens ou tipografias.
 
+#### Paleta de Cores:
+![image](https://github.com/user-attachments/assets/9dcb9d40-80ae-4578-961a-6ef923abc60b)
+
 ## Páginas: 
 
 #### 1. Tela Inicial 
