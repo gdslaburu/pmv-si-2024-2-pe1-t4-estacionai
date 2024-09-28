@@ -2,9 +2,9 @@
 
 O projeto EstacionAí busca criar uma plataforma intuitiva e prática para motoristas encontrarem e reservarem vagas de estacionamento antecipadamente, ao mesmo tempo que permite que proprietários de estacionamentos disponibilizem e gerenciem suas vagas.
 
-## Fluxo de Usuário
+## Fluxo do Usuário
 
-![Fluxograma Definitivo (1)](https://github.com/user-attachments/assets/00a766ca-d627-4d1a-bc6c-52b7b8d7f0fa)
+![Fluxograma Definitivo (2)](https://github.com/user-attachments/assets/c61d376a-861b-4597-8a10-0f13ada62e6b)
 
 ## Wireframes
 
