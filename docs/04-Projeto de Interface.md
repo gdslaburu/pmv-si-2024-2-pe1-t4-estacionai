@@ -4,9 +4,7 @@ O projeto EstacionAí busca criar uma plataforma intuitiva e prática para motor
 
 ## Fluxo de usuário
 
-Mapear as principais interações do usuário e os processos que ocorrem no site. A seguir, apresento uma estrutura para o fluxograma que ilustra as principais etapas e decisões do sistema:
-
-![Fluxograma Definitivo](https://github.com/user-attachments/assets/7b7f38e0-f58d-4345-9901-d505a59514bd)
+![Fluxograma Definitivo (1)](https://github.com/user-attachments/assets/00a766ca-d627-4d1a-bc6c-52b7b8d7f0fa)
 
 ## Wireframes
 
