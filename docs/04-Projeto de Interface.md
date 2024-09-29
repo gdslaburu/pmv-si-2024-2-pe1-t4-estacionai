@@ -11,7 +11,8 @@ O projeto EstacionAí busca criar uma plataforma intuitiva e prática para motor
 Representação visual de como a página ou interface do site da ####Estacionaí será organizada, antes de iniciar o design detalhado e o desenvolvimento. O esqueleto da interface, focando na estrutura e no layout, um protótipo com cores, imagens ou tipografias.
 
 #### Paleta de Cores:
-![image](https://github.com/user-attachments/assets/9dcb9d40-80ae-4578-961a-6ef923abc60b)
+![image](https://github.com/user-attachments/assets/ffaea23c-0d65-4ace-ab25-691404c4707e)
+
 
 ## Páginas: 
 
