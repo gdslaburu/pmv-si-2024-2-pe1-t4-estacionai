@@ -1,5 +1,5 @@
 
-![LogoEstacionai](https://github.com/user-attachments/assets/3a6c8325-4f50-4ac5-a6d3-fb4aff3d25e4)
+![LogoEstacionai](https://github.com/user-attachments/assets/2296792c-6969-4a43-9376-96d55b1e4c95)
 
 
 # 🅿️ EstacionAí 
