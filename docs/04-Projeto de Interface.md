@@ -6,12 +6,10 @@ O projeto EstacionAí busca criar uma plataforma intuitiva e prática para motor
 
 ![Fluxograma Definitivo (2)](https://github.com/user-attachments/assets/c61d376a-861b-4597-8a10-0f13ada62e6b)
 
+
 ## Wireframes
 
 Representação visual de como a página ou interface do site da ####Estacionaí será organizada, antes de iniciar o design detalhado e o desenvolvimento. O esqueleto da interface, focando na estrutura e no layout, um protótipo com cores, imagens ou tipografias.
-
-#### Paleta de Cores:
-![image](https://github.com/user-attachments/assets/ffaea23c-0d65-4ace-ab25-691404c4707e)
 
 
 ## Páginas: 
@@ -19,7 +17,7 @@ Representação visual de como a página ou interface do site da ####Estacionaí
 #### 1. Tela Inicial 
 Oferecer uma visão geral das principais funcionalidades disponíveis para o usuário (motorista ou proprietário).
 
-![Home](https://github.com/user-attachments/assets/19631986-0cce-4313-ac71-5c850aaebe7b)
+![Home](https://github.com/user-attachments/assets/c23d1f18-a81c-4204-95df-948b11df8969)
 
 
 #### 2. Tela de Login/Registro
@@ -47,32 +45,28 @@ Permitir que o usuário busque e visualize vagas disponíveis em um mapa interat
 ![Busca_Vagas_Estacionamentos](https://github.com/user-attachments/assets/e3909a14-e221-453a-b2a1-0859c09a2ee7)
 
 
-#### 5. Tela de Detalhes da Vaga
-Apresentar detalhes específicos da vaga de estacionamento, como localização exata, horário disponível, preço e outros.
-
-
-#### 6. Tela de Histórico
+#### 5. Tela de Histórico
 Fornecer Histórico de vagas reservadas, canceladas e recibos.
 
-![Historico](https://github.com/user-attachments/assets/2e65d7f4-0219-4143-9767-ca16b0de7924)
+![Historico](https://github.com/user-attachments/assets/b1e8f72c-4410-4129-9927-a94871cf42e5)
 
 
-#### 7. Aprovação de Proprietário
+#### 6. Aprovação de Proprietário
 Interface dentro da plataforma EstacionAí, onde o proprietário ou administrador da vaga revisa e decide sobre a aprovação ou rejeição de um usuário que deseja acessar o serviço.
 
 ![Aprovação_Propriétário](https://github.com/user-attachments/assets/74f4409a-497b-418f-a4bb-2210e5b24403)
 
 
-#### 8. Tela Sobre a Empresa 
+#### 7. Tela Sobre a Empresa 
 Falar da identidade, a missão, a visão e os valores da empresa, bem como sua história, objetivos e os serviços oferecidos.
 
-![Sobre Nós](https://github.com/user-attachments/assets/69445174-cfc9-4b78-996b-b7a7ff4da63d)
+![Sobre Nós](https://github.com/user-attachments/assets/c751f354-dd91-463c-b37f-054f279ae662)
 
 
-#### 9. Tela de Suporte 
+#### 8. Tela de Suporte 
 Fornecer suporte ao usuário com os possíveis contatos da plataforma.
 
-![Contatos](https://github.com/user-attachments/assets/0a8c1e45-8efa-40c0-bb49-2519327be0af)
+![Contatos](https://github.com/user-attachments/assets/a23c3bd4-f0d3-4234-9af0-9e580ab949a1)
 
 
 Protótipo de design de interface para sugerir a estrutura do site web EstacionAí e seu relacionamentos entre suas páginas. 
