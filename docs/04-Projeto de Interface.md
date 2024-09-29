@@ -24,11 +24,11 @@ Oferecer uma visão geral das principais funcionalidades disponíveis para o usu
 #### 2. Tela de Login/Registro
 Permitir que os usuários (motoristas ou proprietários de vagas) criem suas contas ou façam login para acessar as funcionalidades da plataforma.
 
-#### Usuário Proprietário de Vagas:
+##### Usuário Proprietário de Vagas:
 
 ![Registro_Login(2)](https://github.com/user-attachments/assets/8e43c255-73f1-4c71-baa7-f3889611c645)
 
-#### Usuário Motorista:
+##### Usuário Motorista:
 
 ![Reg _Login_Motorista](https://github.com/user-attachments/assets/41053379-6300-4a1b-a81d-9bb24017693d)
 
@@ -42,33 +42,36 @@ Permitir que os usuários (proprietários de vagas) cadastrem, editem e disponib
 #### 4. Tela de Busca de Vagas e Estacionamentos
 Permitir que o usuário busque e visualize vagas disponíveis em um mapa interativo ou em lista, confirme a reserva e aguarde a confirmação do Propretário.
 
-![Busca_Vagas_Estacionamentos](https://github.com/user-attachments/assets/43cd40ed-a1d1-4928-9450-66d225ea2fc9)
+#### Usuário (Motorista):
+![Busca_Vagas_Estacionamentos](https://github.com/user-attachments/assets/e3909a14-e221-453a-b2a1-0859c09a2ee7)
 
 
 #### 5. Tela de Detalhes da Vaga
 Apresentar detalhes específicos da vaga de estacionamento, como localização exata, horário disponível, preço e outros.
 
-#### 6. Tela de Histórico
-Fornecer Histórico de vagas reservadas, canceladas e recibos 
 
-#### 7. Tela de Suporte e Configurações
-Fornecer suporte ao usuário e permitir ajustes nas configurações da conta.
+#### 6. Tela de Histórico
+Fornecer Histórico de vagas reservadas, canceladas e recibos.
+
+![Historico](https://github.com/user-attachments/assets/2e65d7f4-0219-4143-9767-ca16b0de7924)
+
+
+#### 7. Aprovação de Proprietário
+Interface dentro da plataforma EstacionAí, onde o proprietário ou administrador da vaga revisa e decide sobre a aprovação ou rejeição de um usuário que deseja acessar o serviço.
+
+![Aprovação_Propriétário](https://github.com/user-attachments/assets/74f4409a-497b-418f-a4bb-2210e5b24403)
+
 
 #### 8. Tela Sobre a Empresa 
-Falar da identidade, a missão, a visão e os valores da empresa, bem como sua história, objetivos e os serviços oferecidos..
+Falar da identidade, a missão, a visão e os valores da empresa, bem como sua história, objetivos e os serviços oferecidos.
+
+![Sobre Nós](https://github.com/user-attachments/assets/69445174-cfc9-4b78-996b-b7a7ff4da63d)
+
 
 #### 9. Tela de Suporte 
 Fornecer suporte ao usuário com os possíveis contatos da plataforma.
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+![Contatos](https://github.com/user-attachments/assets/0a8c1e45-8efa-40c0-bb49-2519327be0af)
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+
+Protótipo de design de interface para sugerir a estrutura do site web EstacionAí e seu relacionamentos entre suas páginas. 
