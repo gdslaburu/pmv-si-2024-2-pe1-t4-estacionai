@@ -18,14 +18,32 @@ Representação visual de como a página ou interface do site da ####Estacionaí
 #### 1. Tela Inicial 
 Oferecer uma visão geral das principais funcionalidades disponíveis para o usuário (motorista ou proprietário).
 
+![Home](https://github.com/user-attachments/assets/19631986-0cce-4313-ac71-5c850aaebe7b)
+
+
 #### 2. Tela de Login/Registro
 Permitir que os usuários (motoristas ou proprietários de vagas) criem suas contas ou façam login para acessar as funcionalidades da plataforma.
 
+#### Usuário Proprietário de Vagas:
+
+![Registro_Login(2)](https://github.com/user-attachments/assets/8e43c255-73f1-4c71-baa7-f3889611c645)
+
+#### Usuário Motorista:
+
+![Reg _Login_Motorista](https://github.com/user-attachments/assets/41053379-6300-4a1b-a81d-9bb24017693d)
+
+
 #### 3. Registro de Vagas
-Permitir que os usuários (proprietários de vagas) cadastrem e disponibilizem suas vagas e/ou façam login para acessar as funcionalidades da plataforma.
+Permitir que os usuários (proprietários de vagas) cadastrem, editem e disponibilizem suas vagas e/ou façam login para acessar as funcionalidades da plataforma.
+
+![Reg_Vagas](https://github.com/user-attachments/assets/ea851861-2086-44ac-a3ba-85753da5a1dc)
+
 
 #### 4. Tela de Busca de Vagas e Estacionamentos
-Permitir que o usuário busque e visualize vagas disponíveis em um mapa interativo ou em lista.
+Permitir que o usuário busque e visualize vagas disponíveis em um mapa interativo ou em lista, confirme a reserva e aguarde a confirmação do Propretário.
+
+![Busca_Vagas_Estacionamentos](https://github.com/user-attachments/assets/43cd40ed-a1d1-4928-9450-66d225ea2fc9)
+
 
 #### 5. Tela de Detalhes da Vaga
 Apresentar detalhes específicos da vaga de estacionamento, como localização exata, horário disponível, preço e outros.
