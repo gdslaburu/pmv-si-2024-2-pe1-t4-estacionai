@@ -4,7 +4,7 @@ Escolhemos uma interface visual simples e objetiva, para que o usuário consiga 
 
 # Logo
 
-![Logo6 2 (1)](https://github.com/user-attachments/assets/e3a75161-e773-4e27-9250-283a10860baf)
+![LogoEstacionai](https://github.com/user-attachments/assets/e79dfee7-8697-40d6-892f-92c6ae8273f4)
 
 # Palhetas de cores
 
