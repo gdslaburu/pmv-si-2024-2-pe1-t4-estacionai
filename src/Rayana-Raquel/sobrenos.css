@@ -1,5 +1,6 @@
-      
 body {background-image: url(fundo-linhas.png)
+}
+.carros{margin-top: 25px;
 }
 
 .h1 {
@@ -46,17 +47,7 @@ body {background-image: url(fundo-linhas.png)
 .list-group-item:hover {
     background-color: #e7f1ff;
   }
-
-  .carros {
-    margin-top: 25px; /* Ajuste conforme necessário */
-  }
-
-  .justificado {
-    text-align: justify; /* Justificando o texto */
-    margin-bottom: 10px; /* Espaço abaixo do texto */
-    line-height: 1.5;
-    margin-right: 5px;
-}
+  
 
 
 
