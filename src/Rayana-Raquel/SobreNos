@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
+      integrity="sha384-tViUnnbYAV00FLIhhi3v/dWt3Jxw4gZQcNoSCxCIFNJVCx7/D55/wXsrNIRANwdD"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Index</title>
+  </head>
+
+  <body>
+    <style>
+        body {
+          background-image: url('fundo-linhas.png'); /* Nome da imagem na mesma pasta */
+          background-size: cover; /* Para cobrir toda a tela */
+          background-position: center; /* Centraliza a imagem */
+          background-repeat: no-repeat; /* Não repetir a imagem */
+        }
+    </style>
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+          <img src="logo.png" alt="Logo" />
+        </a>
+        <div class="ml-auto">
+          <a class="btn btn-outline-secondary" href="#" role="button">Criar conta</a>
+          <a class="btn btn-warning" href="#" role="button">Entrar</a>
+        </div>
+      </nav>
+      <br>
+    <div class="container-fluid">
+        <h1 class="text-center">Sobre nós</h1>
+      <div class="clearfix">
+        <img src="Vagas_Web.JPG" class="col-md-5 float-md-end mb-3 ms-md-3 carros" alt="carros">
+      <br>
+        <p2 class="justificado">
+          A Estaciona aí é uma plataforma on-line que disponibiliza vagas de carros de acordo com as necessidades de dia e horário do motorista que contrata o serviço.
+        </p2>
+        <p></p>
+        <p3 class="justificado">
+          A plataforma surgiu em resposta à demanda urbana por uma vaga de carro mais prático e acessível, permitindo que os motoristas economizem tempo na busca por uma vaga. 
+        </p3>
+       <p></p>
+       <p4 class="justificado">
+          Desenvolvida como parte de um projeto da Universidade PUC Minas no curso de Sistemas de Informação, a  Estaciona aí busca constantemente inovar na conexão entre estacionamentos e motoristas, por meio de soluções tecnológicas avançadas.
+       </p4>
+       </div>
+       <p>
+       <br>
+
+       </p>
+
+      </div>
+       <img src="vmv.png" alt="missao">
+
+    <div class="container">
+      <footer
+        class="d-flex flex-wrap justify-content-between align-items-center py-2 my-4 border-top"
+      >
+        <div class="col-md-4 d-flex align-items-center">
+          <span class="mb-3 mb-md-0 text-body-secondary">&copy; 2024 EstacionAí, Inc</span>
+        </div>
+    
+        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+          <li class="ms-5">
+            <a class="text-body-secondary rs fs-5 mx-1" href="#">
+              <i class="bi bi-instagram"></i>
+            </a>
+            <a class="text-body-secondary rs fs-5 mx-1" href="#">
+              <i class="bi bi-facebook"></i>
+            </a>
+            <a class="text-body-secondary rs fs-5 mx-1" href="#">
+              <i class="bi bi-twitter-x"></i>
+            </a>
+          </li>
+        </ul>
+        
+      </footer>
+    </div>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
