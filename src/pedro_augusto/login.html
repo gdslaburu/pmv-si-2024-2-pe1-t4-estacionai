@@ -21,53 +21,50 @@
 </head>
 
 <body>
-    <nav class="navbar navbar-light bg-light">
-        <a class="navbar-brand" href="#">
-            <img src="images/logo.png" alt="Logo" />
-        </a>
-        <div class="ms-auto">
-            <a class="btn btn-outline-secondary me-2" href="#" role="button">Criar conta</a>
-            <a class="btn btn-warning" href="#" role="button">Entrar</a>
-        </div>
-    </nav>
 
-    <div class="container mt-5 form-class">
-        <form class="text-white p-5 d-flex flex-column align-items-start form-class">
-            <div class="mb-3 w-100">
-                <label for="usuario" class="form-label">Usuário</label>
-                <input id="usuario" type="text" class="form-control" />
-            </div>
-            <div class="mb-3 w-100">
-                <label for="senha" class="form-label">Senha</label>
-                <input id="senha" type="password" class="form-control" />
-                <a style="color: white " href="esqueci-senha">Esqueci minha senha</a>
-            </div>
-            <!-- Botão centralizado -->
-            <button type="submit" class="btn btn-warning mx-auto btn-entrar">Entrar</button>
-        </form>
+  <!--Div responsavel por todo formulario para autenticação da pagina de login -->
+    <div class="container mt-5 d-flex justify-content-center">
+        <div class="form-class p-4">
+            <form class="text-white d-flex flex-column align-items-center">
+                <img class="logo-2 mb-4" src="/src/images/Logo-2.png" alt="Logo" />
+                <div class="mb-3 w-100">
+                    <label for="usuario" class="form-label">Usuário</label>
+                    <input id="usuario" type="text" class="form-control" />
+                </div>
+                <div class="mb-3 w-100">
+                    <label for="senha" class="form-label">Senha</label>
+                    <input id="senha" type="password" class="form-control" />
+                    <a style="color: white" href="esqueci-senha">Esqueci minha senha</a>
+                </div>
+                <button type="submit" class="btn-entrar btn btn-warning w-100">Entrar</button>
+            </form>
+        </div>
     </div>
-
-    <footer
-        class="d-flex flex-wrap justify-content-between align-items-center py-2 my-4 border-top container"
-    >
-        <div class="col-md-4 d-flex align-items-center">
+     <!--Roda pé -->
+    <div class="container footer">
+        <footer
+          class="d-flex flex-wrap justify-content-between align-items-center py-2 my-4 border-top "
+        >
+          <div class="col-md-4 d-flex align-items-center">
             <span class="mb-3 mb-md-0 text-body-secondary">&copy; 2024 EstacionAí, Inc</span>
-        </div>
-
-        <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+          </div>
+      
+          <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
             <li class="ms-5">
-                <a class="text-body-secondary rs fs-5 mx-1" href="#">
-                    <i class="bi bi-instagram"></i>
-                </a>
-                <a class="text-body-secondary rs fs-5 mx-1" href="#">
-                    <i class="bi bi-facebook"></i>
-                </a>
-                <a class="text-body-secondary rs fs-5 mx-1" href="#">
-                    <i class="bi bi-twitter-x"></i>
-                </a>
+              <a class="text-body-secondary rs fs-5 mx-1" href="#">
+                <i class="bi bi-instagram"></i>
+              </a>
+              <a class="text-body-secondary rs fs-5 mx-1" href="#">
+                <i class="bi bi-facebook"></i>
+              </a>
+              <a class="text-body-secondary rs fs-5 mx-1" href="#">
+                <i class="bi bi-twitter-x"></i>
+              </a>
             </li>
-        </ul>
-    </footer>
+          </ul>
+          
+        </footer>
+      </div>
 
     <script
         src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
