@@ -85,3 +85,21 @@ body {background-image: url(fundo-linhas.png)
     }
     .descricao {
         text-align: justify;
+    }
+    h2 {color: #1d89ed;
+      text-align: center;
+      font-family: Roboto;
+      font-size: 48px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+    }
+    h3 {color: #1d89ed;
+      text-align: center;
+      font-family: Roboto;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 500;
+      line-height: normal;
+    }
+    
