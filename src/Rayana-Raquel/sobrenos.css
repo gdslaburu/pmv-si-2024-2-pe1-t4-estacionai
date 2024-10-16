@@ -2,6 +2,12 @@
 body {background-image: url(fundo-linhas.png)
 }
 .estacionamento{margin-top: 25px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;     
+  width: 60%; 
+  max-width: 200px; 
+  height: auto; /
 }
 
 .h1 {
@@ -47,26 +53,33 @@ body {background-image: url(fundo-linhas.png)
 
 .list-group-item:hover {
     background-color: #e7f1ff;
-  }
-  .container2 {
-    display: flex;
-    justify-content: space-around;
-    align-items: flex-start;
-    max-width: 1343px;
-    margin: auto;
-    background: #1d89ed;
-    padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  max-width: 1343px;
+  margin: auto;
+  background: #0055A5;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  flex-wrap: wrap;
+  width: 100vw;
+  background-color: #0055A5; 
+  margin-left: calc(-50vw + 50%); 
+  margin-right: calc(-50vw + 50%); 
 }
 .item {
     text-align: center;
     max-width: 200px;
+    margin: 10px 0;
 }
 .circle {
     width: 100px;
     height: 100px;
-    border-radius: 50%;
+    border-radius: 40%;
     overflow: hidden;
     margin: 0 auto 10px;
 }
@@ -74,7 +87,7 @@ body {background-image: url(fundo-linhas.png)
     width: 100%;
     height: auto;
 }
-h1 {color: #1d89ed;
+h1 {color: #0055A5;
   text-align: center;
   font-family: Roboto;
   font-size: 48px;
@@ -82,14 +95,17 @@ h1 {color: #1d89ed;
   font-weight: 500;
   line-height: normal;
 }
-h2 {color: #1d89ed;
+h2 {color: white;
   text-align: center;
   font-family: Roboto;
   font-size: 48px;
   font-style: normal;
   font-weight: 500;
   line-height: normal;
+  width: 100%;
+  margin-bottom: 40px;
 }
+
 h3 {
   color: white;
   text-align: center;
@@ -111,8 +127,44 @@ h4 {
     
 }
   
+.bg-azul {
+  background-color: #007bff; /* Azul padrão */
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
 
+/* Ajustando a imagem e o texto para ocupar metade da página */
+.content-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  padding: 0 20px;
+  text-align: justify;
+  display: flex;
+}
 
+.content-row .texto {
+  width: 50%;
+  padding-right: 40px;
+  color: #0055A5;
+}
+
+.content-row .imagem {
+  width: 50%;
+  
+}
+
+.content-row .imagem img {
+  width: 100%; /* Faz a imagem ocupar todo o espaço da coluna */
+  height: auto;
+}
+
+.p {
+  text-align: justify; /* Justifica o texto */
+  
+}
 
 
 
