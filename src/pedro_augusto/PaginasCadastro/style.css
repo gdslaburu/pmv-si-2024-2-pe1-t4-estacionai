@@ -1,0 +1,43 @@
+body {background-image: url(/src/images/fundo-linhas.png)}
+
+.btn-entrar{
+    background-color:#ED9E1D !important;
+    width:auto;
+    height:auto;
+    min-height:50px;
+    max-width:133px;
+    color: white;
+    margin-bottom:3px;
+
+
+}
+
+.form-class{
+    background-color:#0055a5!important;
+    width:400px;
+    height:550px;
+    padding:45px !important;
+
+    border-radius: 15px;
+}
+
+
+.logo{
+    max-height: 50px;
+    height: auto;
+    width: auto;
+    object-fit: contain;
+}
+.logo-2{
+    width:auto;
+    height: auto;
+    max-width:150px;
+    max-height:150px;
+}
+
+.input-car{
+    max-height:25px;
+    background-color: #0055a5;
+    color: white;
+    margin: 2px;
+}
