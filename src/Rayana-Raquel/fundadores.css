@@ -1,7 +1,7 @@
 body {background-image: url(fundo-linhas.png)
 }
 .h1 {
-    color: #1d89ed;
+    color: #0055A5;
     text-align: center;
     font-family: Roboto;
     font-size: 48px;
@@ -47,6 +47,7 @@ body {background-image: url(fundo-linhas.png)
       background-color: #e7f1ff;
     }
     .container2 {
+      color:#0055A5;
       display: flex;
       flex-wrap: wrap;
       justify-content: center;
@@ -58,10 +59,8 @@ body {background-image: url(fundo-linhas.png)
       flex-direction: column;
       align-items: center;
       margin: 10px;
-      background: white;
       padding: 10px;
       border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
       width: 150px; /* Ajuste conforme necessário */
       flex-basis: 22%; /* Aproximadamente 1/4 do espaço disponível */
   }
@@ -86,7 +85,7 @@ body {background-image: url(fundo-linhas.png)
     .descricao {
         text-align: justify;
     }
-    h2 {color: #1d89ed;
+    h2 {color: #0055A5;
       text-align: center;
       font-family: Roboto;
       font-size: 48px;
@@ -94,7 +93,7 @@ body {background-image: url(fundo-linhas.png)
       font-weight: 500;
       line-height: normal;
     }
-    h3 {color: #1d89ed;
+    h3 {color: #0055A5;
       text-align: center;
       font-family: Roboto;
       font-size: 24px;
