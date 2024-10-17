@@ -1,0 +1,139 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(fundo-linhas.png);
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar {
+    padding: 16px 112px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    height: 104px;
+  }
+  
+  .navbar-brand img {
+    width: 98px;
+    height: 72px;
+  }
+
+  .btn-primary {
+    border: 0;
+    border-radius: 8px;
+    background-color: #ed9e1d;
+    color: #3c3c3c;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ed9e1d;
+    color: #3c3c3c;
+  }
+  
+  .btn-primary:focus {
+    box-shadow: 0 0 0 0.2rem rgba(237, 158, 29, 0.5);
+  }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: -60px;
+}
+
+.profile-box {
+    background-color: #0055A5;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    height: 300px;
+    color: white;
+    display: flex;
+    margin-top: -20px;
+}
+
+.profile-picture {
+    text-align: center;
+    margin-right: 20px;
+    border-radius: 60%;
+    width: 100px;
+    height: 100px;
+}
+
+.profile-picture img { 
+    margin-top: 40px;
+    margin-left: 5px;
+    width: 150px;
+    height: 150px;
+    border-radius: 60%;
+    padding: 20px;
+}
+
+.profile-picture p {
+    margin-top: -10px;
+    margin-left: 50px;
+    font-size: 16px;
+}
+
+.profile-info {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    position: relative;
+    margin-left: 50px;
+    margin-top: -5px;
+}
+
+.profile-info h2 {
+    margin-top: -5px;
+    padding-bottom: 20px;
+    margin-left: -150px;
+}
+
+.profile-info .btn-edit {
+    background-color: #ed9e1d;
+    border: none;
+    color: white;
+    padding: 4px 12px;
+    font-size: 12px;
+    margin-left: -10px; /* Espaço entre o texto e o botão */
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 30px;
+}
+
+.profile-info .btn-edit:hover {
+    background-color: #ED9E1D;
+}
+
+.profile-info .btn-historico {
+    background-color: #ED9E1D;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px; /* Ajusta o espaço abaixo do botão */
+    position: absolute;
+    right: 120px;
+    bottom: -30px;
+}
+
+.profile-info .btn-historico:hover {
+    background-color: #ED9E1D;
+}
+
+.profile-info p {
+    width: 100%;
+    display: flex;
+    justify-content: space-between; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Alinha verticalmente */
+    margin: 5px 0; /* Margem superior e inferior */
+}
+
+
