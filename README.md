@@ -20,6 +20,7 @@ Desenvolver uma plataforma on-line que conecta pessoas e/ou empresas que possuem
 * Raquel Ribeiro
 * David Sanchez
 * Mateus Mendes
+* Pedro Paulo
 
 ## Orientador
 

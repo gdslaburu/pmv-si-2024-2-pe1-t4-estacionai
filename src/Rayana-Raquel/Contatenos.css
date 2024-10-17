@@ -84,26 +84,26 @@ h2 {
 }
   
 .navbar-brand img {
-    width: 40px;
-    height: auto;
-}
-
-.btn-primary {
+    width: 98px;
+    height: 72px;
+  }
+  
+  .btn-primary {
     border: 0;
     border-radius: 8px;
     background-color: #ed9e1d;
     color: #3c3c3c;
-}
-
-.btn-primary:hover {
+  }
+  
+  .btn-primary:hover {
     background-color: #d78a14;
     color: #3c3c3c;
-}
-
-.btn-primary:focus {
+  }
+  
+  .btn-primary:focus {
     box-shadow: 0 0 0 0.2rem rgba(237, 158, 29, 0.5);
-}
-
-.list-group-item:hover {
-    background-color: #e7f1ff;
-}
+  }
+  
+  .list-group-item:hover {
+      background-color: #e7f1ff;
+  }
