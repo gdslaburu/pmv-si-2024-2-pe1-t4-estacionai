@@ -100,7 +100,7 @@ body {
     color: white;
     padding: 4px 12px;
     font-size: 12px;
-    margin-left: -10px; /* Espaço entre o texto e o botão */
+    margin-left: -10px; 
     border-radius: 5px;
     cursor: pointer;
     margin-right: 30px;
@@ -118,7 +118,7 @@ body {
     font-size: 14px;
     border-radius: 5px;
     cursor: pointer;
-    margin-bottom: 20px; /* Ajusta o espaço abaixo do botão */
+    margin-bottom: 20px; 
     position: absolute;
     right: 120px;
     bottom: -30px;
@@ -131,9 +131,7 @@ body {
 .profile-info p {
     width: 100%;
     display: flex;
-    justify-content: space-between; /* Centraliza o conteúdo horizontalmente */
-    align-items: center; /* Alinha verticalmente */
-    margin: 5px 0; /* Margem superior e inferior */
+    justify-content: space-between; 
+    align-items: center; 
+    margin: 5px 0; 
 }
-
-

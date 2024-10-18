@@ -29,10 +29,16 @@ body {
         background-color: #ed9e1d;
         color: #3c3c3c;
     }
-    
-    .btn-primary:hover {
-        background-color: #ed9e1d;
-        color: #3c3c3c;
+
+    .btn-outline-secondary {
+        margin-right: 15px; 
+    }
+
+
+    .userin img {
+        width: 55px;
+        height: 55px;
+        margin-bottom: 5px;
     }
     
     .btn-primary:focus {
@@ -113,8 +119,4 @@ body {
     margin-top: 10px;
 }
 
-.footer {
-    margin-top: auto; /* Faz o footer ficar na parte inferior */
-    width: 100%; /* Garante que o footer ocupe a largura total */
-    padding: 20px; /* Espaçamento interno do footer */
-}
+
