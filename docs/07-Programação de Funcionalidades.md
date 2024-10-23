@@ -52,7 +52,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade | Status |
-|-------|-------------------------|----|
+|-------|-------------------------|----|-----|
 |RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | ALTA | Pendente |
 |RNF-002| A interface do usuário deve ser intuitiva e fácil de usar | ALTA | Realizado |
 |RNF-003| O banco de dados utilizado deve ser JSON-Server | ALTA | Pendente|
