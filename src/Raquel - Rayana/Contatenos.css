@@ -2,8 +2,7 @@
 body {
     margin-left: 0;
     font-family: Arial, sans-serif, 12px;
-    background: #0055A5; 
-    color: white;
+    color: #0055A5;
 }
 
 /* Container1 formulário e FAQ */
@@ -38,6 +37,7 @@ input, textarea {
     margin-bottom: 0px;
     border: none;
     border-radius: 5px;
+    background-color: #eeebeb;
 }
 
 button {
@@ -53,8 +53,8 @@ button {
 
 /* Estilos dos títulos */
 h2 {
-    color: white;
-    border-bottom: 2px solid white;
+    color: #0055A5;
+    border-bottom: 2px solid #d9d9d9;
     padding-bottom: 10px;
 }
 
@@ -104,13 +104,7 @@ h2 {
   }
   
   .list-group-item:hover {
-      background-color: #e7f1ff;
+      background-color: #d9d9d9;
   }
 
-footer {
-    background-color: #ffffff; 
-    color: #ffffff; 
-    padding: 0;
-
-}
 
