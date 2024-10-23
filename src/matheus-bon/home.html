@@ -24,63 +24,43 @@
     />
 
     <link rel="stylesheet" href="../styles.css" />
-    <title>Home</title>
+    <title>Home | EstacionAí</title>
   </head>
 
   <body>
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-          <img
-            src="../images/logo.png"
-            alt="Logo"
-            style="width: 98px; height: 72px"
-          />
-        </a>
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarNav"
-          aria-controls="navbarNav"
-          aria-expanded="false"
-          aria-label="Alternar navegação"
-        >
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex align-items-center">
-            <li class="nav-item">
-              <a class="nav-link" aria-current="page" href="home.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a
-                class="nav-link active text-primary fw-bold"
-                href="minhas_vagas.html"
-                >Minhas Vagas</a
-              >
-              <!-- Link Destacado -->
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="meus_dados.html">Meus Dados</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="sobre_nos.html">Sobre Nós</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="fale_conosco.html">Fale Conosco</a>
-            </li>
-            <li class="nav-item ms-3">
-              <a href="#" class="nav-link">
-                <i
-                  class="bi bi-person-circle"
-                  style="font-size: 1.5rem; color: #0055a5"
-                ></i>
-              </a>
-            </li>
-          </ul>
-        </div>
+          <a class="navbar-brand" href="#">
+              <img src="../images/logo.png" alt="Logo" style="width: 98px; height: 72px;">
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                  aria-controls="navbarNav" aria-expanded="false" aria-label="Alternar navegação">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+              <ul class="navbar-nav ms-auto mb-2 mb-lg-0 d-flex align-items-center">
+                  <li class="nav-item">
+                      <a class="nav-link" aria-current="page" href="home.html">Home</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="meus_dados.html">Meus Dados</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="sobre_nos.html">Sobre Nós</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link" href="fale_conosco.html">Fale Conosco</a>
+                  </li>
+                  <li class="nav-item ms-3">
+                    <div class="ml-auto">
+                        <a class="btn btn-outline-secondary" href="#" role="button"
+                          >Criar conta</a
+                        >
+                        <a class="btn btn-warning" href="#" role="button">Entrar</a>
+                  </li>
+              </ul>
+          </div>
       </div>
     </nav>
 
@@ -118,8 +98,10 @@
         </form>
         <div>
           <button class="btn-parking-list">
-            <i class="bi bi-send" id="btn-icon-parking-list"></i>
-            Lista de vagas
+            <a href="busca-vagas.html">
+              <i class="bi bi-send" id="btn-icon-parking-list"></i>
+              Lista de vagas
+            </a>
           </button>
         </div>
       </div>
@@ -194,7 +176,6 @@
           suggestionsBox.classList.add("d-none");
         }
       });
-
     </script>
 
     <script

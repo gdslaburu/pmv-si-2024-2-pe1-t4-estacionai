@@ -117,3 +117,9 @@ h1 {
 .list-group-item:hover {
   background-color: #f0f0f0;
 }
+
+.vagas-list {
+  max-height: 400px;
+  overflow-y: auto;
+  margin-bottom: 80px; 
+}
