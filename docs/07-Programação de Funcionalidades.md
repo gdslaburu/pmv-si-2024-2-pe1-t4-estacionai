@@ -21,7 +21,7 @@ O professor Rommel Carneiro apresenta alguns exemplos prontos para serem utiliza
 
 ## Requisitos Atendidos e Pendentes
 
-As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais que relacionam o escopo do projeto com os artefatos criados:
+A tabela que se segue apresenta os requisitos funcionais e não-funcionais que relacionam o escopo do projeto com os artefatos criados:
 
 ### Requisitos Funcionais
 
@@ -50,6 +50,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 
 ### Requisitos não Funcionais
+
+A tabela a seguirapresenta os requisitos não-funcionais que relacionam o escopo do projeto ue foram realizaos e que estão pendentes:
 
 |ID     | Descrição do Requisito  |Prioridade | Status |
 |-------|-------------------------|----|-----|
