@@ -49,19 +49,12 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |RF-020| Permitir que qualquer usuário com ou sem login visualize as perguntas frequentes | Raquel Ribeiro | Contatenos.html |
 
 
-### Requisitos não Funcionais
+## Descrição das estruturas:
 
-A tabela a seguirapresenta os requisitos não-funcionais que relacionam o escopo do projeto ue foram realizaos e que estão pendentes:
-
-|ID     | Descrição do Requisito  |Prioridade | Status |
-|-------|-------------------------|----|-----|
-|RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | ALTA | Pendente |
-|RNF-002| A interface do usuário deve ser intuitiva e fácil de usar | ALTA | Realizado |
-|RNF-003| O banco de dados utilizado deve ser JSON-Server | ALTA | Pendente|
-|RNF-004| Para o serviço de geolocalização deve ser usada a API Places do Google | ALTA | Pendente |
-|RNF-005| Aplicação deve ser desenvolvida em HTML, CSS e Javascript | ALTA | Realizado |
-|RNF-006| As senhas de todos os usuários devem ser criptografadas com crypto-js | ALTA | Pendente |
-|RNF-007| Escalabilidade, o sistema deve ser capaz de lidar com um grande número de usuários simultâneos sem afetar o desempenho |MÉDIA| Pendente |
-|RNF-008| Compatibilidade com os principais navegadores (Chrome, Firefox, Safari, Edge)|ALTA| Realizado |
-|RNF-009| Conformidade com Lei Geral de Proteção de Dados garantindo o consentimento dos usuários para coleta de dados e oferecendo a opção de remover seus dados do sistema |ALTA| Pendente |
-
+## Notícia
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
+| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
+| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
+| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
