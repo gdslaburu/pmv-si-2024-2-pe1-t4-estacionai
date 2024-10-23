@@ -73,10 +73,14 @@
     </nav>
 
 
+
 <!-- Conteúdo Principal -->
 <main class="container mt-5">
     <h2 class="text-center mb-4 text-primary">Minhas Vagas</h2>
     <div class="list-group" id="listaVagas"></div>
+    <div id="mensagemVagas" class="text-center mt-3" style="display: none;">
+        <p style="font-size: 24px; color: black;">Você Não Possui Vagas</p>
+    </div>
 
     <!-- Botão Adicionar Vaga -->
     <div class="text-center mt-4">
@@ -85,27 +89,171 @@
 
     <h2 class="text-center mb-4 text-primary mt-5">Meus Estacionamentos</h2>
     <div class="list-group" id="listaEstacionamentos"></div>
+    <div id="mensagemEstacionamentos" class="text-center mt-3" style="display: none;">
+        <p style="font-size: 24px; color: black;">Você Não Possui Estacionamentos</p>
+    </div>
 
     <!-- Botão Adicionar Estacionamento -->
-        <div class="text-center mt-4">
+    <div class="text-center mt-4">
         <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addParkingModal">Adicionar Estacionamento</button>
     </div>
 </main>
 
+<!-- Script Modular Vagas-->
+<script>
+    const vagas = [
+        {
+            id: 1,
+            endereco: 'Rua A, 123',
+            preco: 'R$ 10,00/hora',
+            tamanho: 'P',
+            statusOcupacao: 'Disponível',
+            statusOperacao: 'Ativa'
+        },
+        {
+            id: 2,
+            endereco: 'Rua B, 456',
+            preco: 'R$ 15,00/hora',
+            tamanho: 'M',
+            statusOcupacao: 'Ocupada',
+            statusOperacao: 'Inativa'
+        },
+        {
+            id: 3,
+            endereco: 'Rua C, 789',
+            preco: 'R$ 120,00/dia',
+            tamanho: 'G',
+            statusOcupacao: 'Disponível',
+            statusOperacao: 'Ativa'
+        }
+    ];
 
-<!-- Footer -->
-<footer class="container d-flex flex-wrap justify-content-between align-items-center py-2 my-4">
-    <div class="col-md-4 d-flex align-items-center">
-        <span class="mb-3 mb-md-0 text-body-secondary">&copy; 2024 EstacionAí, Inc</span>
-    </div>
-    <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
-        <li class="ms-5">
-            <a class="text-body-secondary rs fs-5 mx-1" href="#"><i class="bi bi-instagram"></i></a>
-            <a class="text-body-secondary rs fs-5 mx-1" href="#"><i class="bi bi-facebook"></i></a>
-            <a class="text-body-secondary rs fs-5 mx-1" href="#"><i class="bi bi-twitter"></i></a>
-        </li>
-    </ul>
-</footer>
+    function criarVaga(vaga) {
+        const vagaElement = document.createElement('div');
+        vagaElement.className = 'list-group-item d-flex justify-content-between align-items-center';
+
+        vagaElement.innerHTML = `
+            <div>
+                <h5>Vaga ${vaga.id}</h5>
+                <p class="mb-1">Endereço: ${vaga.endereco}</p>
+                <p class="mb-1">Preço: ${vaga.preco}</p>
+                <p class="mb-1">Tamanho: ${vaga.tamanho}</p>
+                <p class="mb-1">Status de Ocupação: ${vaga.statusOcupacao}</p>
+                <p class="mb-0">Status de Operação: ${vaga.statusOperacao}</p>
+            </div>
+            <span>
+                <button class="btn btn-aprov" data-bs-toggle="modal" data-bs-target="#editVagaModal">Editar</button>
+                <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#confirmDeleteModal">Excluir</button>
+                <button class="btn btn-secondary toggle-status" data-status="${vaga.statusOperacao.toLowerCase()}">${vaga.statusOperacao === 'Ativa' ? 'Desativar' : 'Ativar'}</button>
+            </span>
+        `;
+
+        return vagaElement;
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const listaVagas = document.querySelector('#listaVagas');
+        const mensagemVagas = document.querySelector('#mensagemVagas');
+
+        if (vagas.length === 0) {
+            mensagemVagas.style.display = 'block'; // Exibe mensagem se não houver vagas
+        } else {
+            vagas.forEach(vaga => {
+                const vagaElement = criarVaga(vaga);
+                listaVagas.appendChild(vagaElement);
+            });
+        }
+
+        atualizarStatus(); // Chama a função para ativar/desativar as vagas
+    });
+</script>
+
+<!-- Script Modular Estacionamento-->
+<script>
+    const estacionamentos = [
+            {
+                nome: 'Estacionamento A',
+                endereco: 'Rua A, 123',
+                preco: 'R$ 10,00/hora',
+                tamanho: 'P',
+                numVagas: 20,
+                numVagasDesocupadas: 10,
+                status: 'ativa'
+            },
+            {
+                nome: 'Estacionamento B',
+                endereco: 'Rua B, 456',
+                preco: 'R$ 15,00/hora, R$ 120,00/dia',
+                tamanho: 'M',
+                numVagas: 50,
+                numVagasDesocupadas: 17,
+                status: 'inativa'
+            },
+            {
+                nome: 'Estacionamento C',
+                endereco: 'Rua C, 789',
+                preco: 'R$ 12,00/hora',
+                tamanho: 'G',
+                numVagas: 30,
+                numVagasDesocupadas: 0,
+                status: 'ativa'
+            },
+            {
+                nome: 'Estacionamento D',
+                endereco: 'Rua D, 101',
+                preco: 'R$ 8,00/hora, R$ 80,00/dia, R$ 200,00/mês',
+                tamanho: 'P',
+                numVagas: 15,
+                numVagasDesocupadas: 15,
+                status: 'ativa'
+            }
+        ];
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const listaEstacionamentos = document.getElementById('listaEstacionamentos');
+        const mensagemEstacionamentos = document.querySelector('#mensagemEstacionamentos');
+
+        if (estacionamentos.length === 0) {
+            mensagemEstacionamentos.style.display = 'block'; // Exibe mensagem se não houver estacionamentos
+        } else {
+            estacionamentos.forEach(estacionamento => {
+                const item = document.createElement('div');
+                item.className = 'list-group-item d-flex justify-content-between align-items-center';
+                item.innerHTML = `
+                    <div>
+                        <h5>${estacionamento.nome}</h5>
+                        <p class="mb-1">Endereço: ${estacionamento.endereco}</p>
+                        <p class="mb-1">Preço: ${estacionamento.preco}</p>
+                        <p class="mb-1">Tamanho das Vagas: ${estacionamento.tamanho}</p>
+                        <p class="mb-1">Número de Vagas: ${estacionamento.numVagas}</p>
+                        <p class="mb-1">Número de Vagas Desocupadas: ${estacionamento.numVagasDesocupadas}</p>
+                        <p class="mb-0">Status de Operação: ${estacionamento.status.charAt(0).toUpperCase() + estacionamento.status.slice(1)}</p>
+                    </div>
+                    <span>
+                        <button class="btn btn-aprov" data-bs-toggle="modal" data-bs-target="#editEstacionamentoModal">Editar</button>
+                        <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#confirmDeleteModal">Excluir</button>
+                        <button class="btn btn-secondary toggle-status" data-status="${estacionamento.status}">Desativar</button>
+                    </span>
+                `;
+                listaEstacionamentos.appendChild(item);
+            });
+        }
+
+        const buttons = document.querySelectorAll('.toggle-status');
+        buttons.forEach(button => {
+            button.addEventListener('click', function() {
+                const currentStatus = this.getAttribute('data-status');
+                const newStatus = currentStatus === 'ativa' ? 'inativa' : 'ativa';
+                this.setAttribute('data-status', newStatus);
+                this.textContent = newStatus === 'ativa' ? 'Desativar' : 'Ativar';
+
+                const statusElement = this.closest('.list-group-item').querySelector('p.mb-0');
+                statusElement.textContent = `Status de Operação: ${newStatus.charAt(0).toUpperCase() + newStatus.slice(1)}`;
+            });
+        });
+    });
+</script>
+
 
 
 <!-- Modal Adicionar Vaga -->
@@ -288,171 +436,19 @@
 <!-- Scripts do Bootstrap -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 
-<!-- Script Modular Vagas-->
-<script>
-    const vagas = [
-        {
-            id: 1,
-            endereco: 'Rua A, 123',
-            preco: 'R$ 10,00/hora',
-            tamanho: 'P',
-            statusOcupacao: 'Disponível',
-            statusOperacao: 'Ativa'
-        },
-        {
-            id: 2,
-            endereco: 'Rua B, 456',
-            preco: 'R$ 15,00/hora',
-            tamanho: 'M',
-            statusOcupacao: 'Ocupada',
-            statusOperacao: 'Inativa'
-        },
-        {
-            id: 3,
-            endereco: 'Rua C, 789',
-            preco: 'R$ 120,00/dia',
-            tamanho: 'G',
-            statusOcupacao: 'Disponível',
-            statusOperacao: 'Ativa'
-        }
-    ];
 
-    function criarVaga(vaga) {
-        const vagaElement = document.createElement('div');
-        vagaElement.className = 'list-group-item d-flex justify-content-between align-items-center';
-
-        vagaElement.innerHTML = `
-            <div>
-                <h5>Vaga ${vaga.id}</h5>
-                <p class="mb-1">Endereço: ${vaga.endereco}</p>
-                <p class="mb-1">Preço: ${vaga.preco}</p>
-                <p class="mb-1">Tamanho: ${vaga.tamanho}</p>
-                <p class="mb-1">Status de Ocupação: ${vaga.statusOcupacao}</p>
-                <p class="mb-0">Status de Operação: ${vaga.statusOperacao}</p>
-            </div>
-            <span>
-                <button class="btn btn-aprov" data-bs-toggle="modal" data-bs-target="#editVagaModal">Editar</button>
-                <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#confirmDeleteModal">Excluir</button>
-                <button class="btn btn-secondary toggle-status" data-status="${vaga.statusOperacao.toLowerCase()}">${vaga.statusOperacao === 'Ativa' ? 'Desativar' : 'Ativar'}</button>
-            </span>
-        `;
-
-        return vagaElement;
-    }
-
-    function atualizarStatus() {
-        const buttons = document.querySelectorAll('.toggle-status');
-
-        buttons.forEach(button => {
-            button.addEventListener('click', function() {
-                const currentStatus = this.getAttribute('data-status');
-                
-                // Alterna o status
-                const newStatus = currentStatus === 'ativa' ? 'inativa' : 'ativa';
-                this.setAttribute('data-status', newStatus);
-                
-                // Atualiza o texto do botão
-                this.textContent = newStatus === 'ativa' ? 'Desativar' : 'Ativar';
-
-                // Atualiza o status exibido
-                const statusElement = this.closest('.list-group-item').querySelector('p.mb-0');
-                statusElement.textContent = `Status de Operação: ${newStatus.charAt(0).toUpperCase() + newStatus.slice(1)}`;
-            });
-        });
-    }
-
-    document.addEventListener('DOMContentLoaded', function() {
-        const listaVagas = document.querySelector('#listaVagas');
-
-        vagas.forEach(vaga => {
-            const vagaElement = criarVaga(vaga);
-            listaVagas.appendChild(vagaElement);
-        });
-
-        atualizarStatus(); // Chama a função para ativar/desativar as vagas
-    });
-</script>
-
-<!-- Script Modular Estacionamento-->
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        const estacionamentos = [
-            {
-                nome: 'Estacionamento A',
-                endereco: 'Rua A, 123',
-                preco: 'R$ 10,00/hora',
-                tamanho: 'P',
-                numVagas: 20,
-                numVagasDesocupadas: 10,
-                status: 'ativa'
-            },
-            {
-                nome: 'Estacionamento B',
-                endereco: 'Rua B, 456',
-                preco: 'R$ 15,00/hora, R$ 120,00/dia',
-                tamanho: 'M',
-                numVagas: 50,
-                numVagasDesocupadas: 17,
-                status: 'inativa'
-            },
-            {
-                nome: 'Estacionamento C',
-                endereco: 'Rua C, 789',
-                preco: 'R$ 12,00/hora',
-                tamanho: 'G',
-                numVagas: 30,
-                numVagasDesocupadas: 0,
-                status: 'ativa'
-            },
-            {
-                nome: 'Estacionamento D',
-                endereco: 'Rua D, 101',
-                preco: 'R$ 8,00/hora, R$ 80,00/dia, R$ 200,00/mês',
-                tamanho: 'P',
-                numVagas: 15,
-                numVagasDesocupadas: 15,
-                status: 'ativa'
-            }
-        ];
-
-        const listaEstacionamentos = document.getElementById('listaEstacionamentos');
-
-        estacionamentos.forEach(estacionamento => {
-            const item = document.createElement('div');
-            item.className = 'list-group-item d-flex justify-content-between align-items-center';
-            item.innerHTML = `
-                <div>
-                    <h5>${estacionamento.nome}</h5>
-                    <p class="mb-1">Endereço: ${estacionamento.endereco}</p>
-                    <p class="mb-1">Preço: ${estacionamento.preco}</p>
-                    <p class="mb-1">Tamanho das Vagas: ${estacionamento.tamanho}</p>
-                    <p class="mb-1">Número de Vagas: ${estacionamento.numVagas}</p>
-                    <p class="mb-1">Número de Vagas Desocupadas: ${estacionamento.numVagasDesocupadas}</p>
-                    <p class="mb-0">Status de Operação: ${estacionamento.status.charAt(0).toUpperCase() + estacionamento.status.slice(1)}</p>
-                </div>
-                <span>
-                    <button class="btn btn-aprov" data-bs-toggle="modal" data-bs-target="#editEstacionamentoModal">Editar</button>
-                    <button class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#confirmDeleteModal">Excluir</button>
-                    <button class="btn btn-secondary toggle-status" data-status="${estacionamento.status}">Desativar</button>
-                </span>
-            `;
-            listaEstacionamentos.appendChild(item);
-        });
-
-        const buttons = document.querySelectorAll('.toggle-status');
-        buttons.forEach(button => {
-            button.addEventListener('click', function() {
-                const currentStatus = this.getAttribute('data-status');
-                const newStatus = currentStatus === 'ativa' ? 'inativa' : 'ativa';
-                this.setAttribute('data-status', newStatus);
-                this.textContent = newStatus === 'ativa' ? 'Desativar' : 'Ativar';
-
-                const statusElement = this.closest('.list-group-item').querySelector('p.mb-0');
-                statusElement.textContent = `Status de Operação: ${newStatus.charAt(0).toUpperCase() + newStatus.slice(1)}`;
-            });
-        });
-    });
-</script>
-
+<!-- Footer -->
+<footer class="container d-flex flex-wrap justify-content-between align-items-center py-2 my-4">
+    <div class="col-md-4 d-flex align-items-center">
+        <span class="mb-3 mb-md-0 text-body-secondary">&copy; 2024 EstacionAí, Inc</span>
+    </div>
+    <ul class="nav col-md-4 justify-content-end list-unstyled d-flex">
+        <li class="ms-5">
+            <a class="text-body-secondary rs fs-5 mx-1" href="#"><i class="bi bi-instagram"></i></a>
+            <a class="text-body-secondary rs fs-5 mx-1" href="#"><i class="bi bi-facebook"></i></a>
+            <a class="text-body-secondary rs fs-5 mx-1" href="#"><i class="bi bi-twitter"></i></a>
+        </li>
+    </ul>
+</footer>
 </body>
 </html>
