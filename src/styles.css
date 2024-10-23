@@ -1,7 +1,5 @@
-
-
 h1 {
-  color: #0055A5;
+  color: #0055a5;
   text-align: center;
   font-family: Roboto;
   font-size: 48px;
@@ -10,8 +8,33 @@ h1 {
   line-height: normal;
 }
 
+#howToWorks {
+  background-color: #0055a5;
+}
+
+#btn-icon-parking-list {
+  width: 20px;
+  margin-right: 8px;
+}
+
+.btn-parking-list {
+  border: 2px solid #007bff;
+  background-color: white;
+  color: #007bff;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 8px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.btn-parking-list:hover {
+  background-color: #e6f0ff;
+}
+
 .rs {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .navbar {
@@ -44,10 +67,53 @@ h1 {
 .btn-aprov {
   border: 0;
   border-radius: 8px;
-  background-color: #0055A5;
+  background-color: #0055a5;
   color: #e7f1ff;
 }
 
 .list-group-item:hover {
-    background-color: #e7f1ff;
+  background-color: #e7f1ff;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  max-width: 700px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.search-input {
+  flex: 1;
+  height: 64px;
+  border-radius: 8px 0 0 8px;
+  border-right: 0;
+}
+
+.search-btn {
+  background-color: #ED9E1D;
+  color: rgb(0, 0, 0);
+  height: 64px;
+  border-radius: 0 8px 8px 0;
+  border-left: 0;
+  padding: 0 20px;
+  font-family: Roboto;
+  font-weight: 500;
+}
+
+.search-suggestions {
+  max-width: 700px;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: #f0f0f0;
 }
