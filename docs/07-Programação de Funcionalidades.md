@@ -27,7 +27,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 |ID    | Descrição do Requisito | Responsável | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| Permitir que o proprietário cadastre seu estabelecimento | Pedro Augusto |
+|RF-001| Permitir que o proprietário cadastre seu estabelecimento | Pedro Augusto | cadastroReserva.html |
 |RF-002| Permitir que o proprietário crie e atualize as vagas  | Rayana Eppenstein | cadastrovagas.html |
 |RF-003| Permitir que o proprietário visualize as vagas  | Mateus Mendes | --- |
 |RF-004| Permitir que o proprietário confirme uma reserva | Pedro Salman | aprovacao.html |
