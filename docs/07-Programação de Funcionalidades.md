@@ -78,5 +78,5 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |Nome         | Texto             |Nome do estacionamento que ficará visivél para os clientes|Estacionamento - supermercados Guarani|
 |CPF/CNPJ         | Texto             |Informação para identificação do fornecedor de vagas|45.222.123/0001-88|
 |Quantidade de vagas         |Número inteiro             |Quantidade de vagas diponibilizadas no estacionamento|50|
-
+|E-mail         |Texto             |E-mail de registro da conta|teste_22@gmail.com|
 
