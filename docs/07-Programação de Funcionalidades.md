@@ -68,5 +68,5 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |Placa do carro          |Texto            |Placa do carro registrado no site    |RIO-2A18                 |
 |Modelo do carro        |Texto            |descrição do modelo do carro do usuário    |VOLKSWAGEN GOL 2020                 |
 |Cor        |Texto            |Cor predominante no carro do usuário    |Vermelho                 |
-
+|e-mail     |Texto            |E-mail de registro da conta    |teste_22@gmail.com                |
 
