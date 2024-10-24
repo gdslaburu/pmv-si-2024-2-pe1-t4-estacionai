@@ -70,3 +70,11 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |Cor        |Texto            |Cor predominante no carro do usuário    |Vermelho                 |
 |e-mail     |Texto            |E-mail de registro da conta    |teste_22@gmail.com                |
 
+
+## Usuário cadastrar vagas
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Id        | Número inteiro            |Chave primaria única que serve como identificador|2                            | 
+|Nome         | Texto             |Nome do estacionamento que ficará visivél para os clientes|Estacionamento - supermercados Guarani                            |
+
+
