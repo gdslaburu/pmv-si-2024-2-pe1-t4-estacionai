@@ -51,10 +51,9 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 
 ## Descrição das estruturas:
 
-## Notícia
+## Login
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da notícia            | 1                                              |
-| Título         | Texto             | Título da notícia                         | Sistemas de Informação PUC Minas é o melhor                                   |
-| Conteúdo       | Texto             | Conteúdo da notícia                       | Sistemas de Informação da PUC Minas é eleito o melhor curso do Brasil                            |
-| Id do usuário  | Numero (Inteiro)  | Identificador do usuário autor da notícia | 1                                              |
+| Usuário        | Texto             |Campo para que o usuario possa acessar sua conta|Jose_Alberto                               | 
+| Senha          | Texto             |Campo para que o usuario consiga se autenticar no site| Jos2233@                            |
+
