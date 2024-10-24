@@ -57,3 +57,12 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 | Usuário        | Texto             |Campo para que o usuario possa acessar sua conta|Jose_Alberto                               | 
 | Senha          | Texto             |Campo para que o usuario consiga se autenticar no site| Jos2233@                            |
 
+
+## Usuário Reservar vagas
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+|Id              |Número inteiro     |Chave primária única que serve como identificador|1                                         |
+|Nome            | Texto             |Nome do usuário                            |Edson                                           | 
+|Sobrenome       | Texto             |Sobrenome do usuário                       |Arantes do Nascimento                           |
+|CPF             | Texto             |CPF usuário                                |255.137.564-11                                  |
+
