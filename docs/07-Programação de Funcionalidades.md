@@ -64,5 +64,5 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |Id              |Número inteiro     |Chave primária única que serve como identificador|1                                         |
 |Nome            | Texto             |Nome do usuário                            |Edson                                           | 
 |Sobrenome       | Texto             |Sobrenome do usuário                       |Arantes do Nascimento                           |
-|CPF             | Texto             |CPF usuário                                |255.137.564-11                                  |
-
+|CPF             | Texto             |CPF usuário                                |255.137.564-11                        |
+|Placa do carro          |Texto            |Placa do carro registrado no site    |RIO-2A18                 |
