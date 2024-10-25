@@ -15,22 +15,6 @@ body {
 .navbar-brand img {
     width: 98px;
     height: 72px;
-  }
-
-.btn-primary {
-    border: 0;
-    border-radius: 8px;
-    background-color: #ed9e1d;
-    color: #3c3c3c;
-  }
-  
-.btn-primary:hover {
-    background-color: #ed9e1d;
-    color: #3c3c3c;
-}
-  
-.btn-primary:focus {
-    box-shadow: 0 0 0 0.2rem rgba(237, 158, 29, 0.5);
 }
 
 .container {
@@ -39,6 +23,7 @@ body {
     align-items: center;
     height: 100vh;
     margin-top: -60px;
+    margin-bottom: 40px;
 }
 
 .profile-box {
@@ -54,8 +39,8 @@ body {
 }
 
 .profile-picture {
-
-    text-align: center;
+    display: flex;
+    flex-direction: column;
     margin-right: 30px;
     border-radius: 60%;
     width: 100px;
@@ -101,12 +86,10 @@ body {
     justify-content: space-between;
     margin-bottom: -15px;
     width: 100%;
-    
 }
 
 .input-group p {
     flex-shrink: 0;
-    width: 150px; 
     margin: 0;
     text-align: left;
     padding-right: 10px;
@@ -115,15 +98,13 @@ body {
 
 .input-group input {
     flex: 1;
-    margin-left: 100px;
+    margin-left: 50px;
     padding: 8px;
     margin-right: -100px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    width: 500px;
+    border: none;
+    width: 100%;
     height: 100% ;
     display: flex;
-    align-items: center; 
     margin: 5px; 
 }
 
@@ -141,18 +122,11 @@ body {
     bottom: auto;
 }
 
-.profile-info .btn-historico:hover {
-    background-color: #ED9E1D;
-}
-
-
-/* Container para os botões */
 .button-group {
     display: flex;
-    justify-content: flex-start; /* Para alinhar os botões à direita */
-    gap: 20px; /* Espaçamento entre os botões */
-    margin-top: 20px; /* Distância do último input */
-    align-items: center;
+    justify-content: flex-start; 
+    gap: 20px; 
+    margin-top: 20px;
     padding-left: -600px;
 }
 
@@ -166,14 +140,32 @@ body {
     cursor: pointer;
 }
 
-.button-group .btn-edit-save:hover {
-    background-color: #e58c00;
-}
-
 .profile-info p {
     width: 100%;
     display: flex;
     justify-content: space-between; 
     align-items: center; 
     margin: 5px 0; 
+}
+
+/* Estilizar o input de upload */
+input[type="file"] {
+    display: none; 
+}
+
+.upload-label {
+    display: inline-block;
+    background-color: #ED9E1D;
+    color: white;
+    padding: 8px 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: -10px;
+    font-size: 12px;
+    text-align: center;
+    width: 100%;
+}
+
+.profile-picture label{
+    margin-left: 26px;
 }

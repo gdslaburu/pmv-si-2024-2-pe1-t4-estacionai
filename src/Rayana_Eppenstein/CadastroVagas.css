@@ -1,14 +1,5 @@
-html, body {
-    height: 100%; /* Garante que o HTML e o body tenham 100% de altura */
-    margin: 0; /* Remove margem padrão */
-}
-
 body {
     background-image: url(fundo-linhas.png);
-    margin: 0;
-    padding: 0;
-    background-size: cover;
-    background-position: center;
 }
 
 .navbar {
@@ -17,39 +8,17 @@ body {
     height: 104px;
 }
   
-    .navbar-brand img {
-        width: 98px;
-        height: 72px;
-    }
-
-    .btn-primary {
-        border: 0;
-        border-radius: 8px;
-        background-color: #ed9e1d;
-        color: #3c3c3c;
-    }
-
-    .btn-outline-secondary {
-        margin-right: 15px; 
-    }
-
-
-    .userin img {
-        width: 55px;
-        height: 55px;
-        margin-bottom: 5px;
-    }
-    
-    .btn-primary:focus {
-        box-shadow: 0 0 0 0.2rem rgba(237, 158, 29, 0.5);
-    }
-
+.navbar-brand img {
+    width: 98px;
+    height: 72px;
+}
 .container {
     flex: 1;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
+    text-align: right;
 }
 
 .button-container {
@@ -65,33 +34,27 @@ body {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
     width: 400px;
-    height: 450px;
-}
-
-.form-box div {
-    display: flex;                
-    justify-content: center;      
-    gap: 10px;                  
-}
+    height: 550px;
+} 
 
 .form-box input {
     width: 90%;
-    padding: 10px;
+    padding: 8px;
     margin: 10px 0;
     border: none;
     border-radius: 5px;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .form-box button {
-    width: 45%;
+    width: 42%;
     padding: 10px;
     background-color: #ed9e1d;
     border: none;
     border-radius: 5px;
-    font-size: 16px;
+    font-size: 14px;
     cursor: pointer;
-    margin: 10px;
+    margin: 8px;
     color: white;
 }
 
@@ -105,8 +68,9 @@ body {
     align-items: center;
     justify-content: center;
     color: white;
-    margin-bottom: 20px;
-    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    text-align: right;
 }
 
 .icon img {
@@ -118,4 +82,12 @@ body {
     margin-top: 10px;
 }
 
-
+label {
+    color: white; 
+    font-size: 16px; 
+    display: block; 
+    margin-bottom: -10px; 
+    text-align: left; 
+    margin-left: 18px;
+    gap: 10px;
+}
