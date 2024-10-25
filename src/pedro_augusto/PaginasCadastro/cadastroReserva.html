@@ -22,28 +22,14 @@
     rel="stylesheet"
     />
     <title>Cadastro</title>
-    <style>
-        .input-car {
-            max-width: 250px;
-            margin-bottom: 10px;
-        }
-        .form-class {
-            background-color: #1E1E2D;
-            width: 435px;
-            height: auto;
-            border-radius: 15px;
-        }
-        .form-label {
-            margin-bottom: 5px;
-        }
-    </style>
 </head>
 
 <body>
+  <!--Navbar padrão -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">
-            <img src="../images/logo.png" alt="Logo" style="width: 98px; height: 72px;">
+            <img src="/src/images/logo.png" alt="Logo" style="width: 98px; height: 72px;">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Alternar navegação">
@@ -78,15 +64,17 @@
     <div class="container mt-5 d-flex justify-content-center">
         <div class="form-class p-4">
             <form class="text-white">
-                <!--Campo para o usuario inserir seu Nome -->
+                <!--Campo para o usuario inserir seu Nome com validador -->
                 <div class="mb-3 w-100">
-                    <label for="Nome" class="form-label">Nome</label>
-                    <input id="Nome" type="text" class="form-control" placeholder="Digite seu nome" aria-label="Nome" />
+                  <label for="Nome" class="form-label">Nome</label>
+                  <input id="Nome" type="text" class="form-control" placeholder="Digite seu nome" aria-label="Nome" 
+                         pattern="[A-Za-zÀ-ÿ\s]+" title="Apenas letras são permitidas" required />
                 </div>
-                <!--Campo para o usuario inserir seu sobrenome -->
+                <!--Campo para o usuario inserir seu sobrenome com validador -->
                 <div class="mb-3 w-100">
-                    <label for="Sobrenome" class="form-label">Sobrenome</label>
-                    <input id="Sobrenome" type="text" class="form-control" placeholder="Digite seu sobrenome" aria-label="Sobrenome" />
+                  <label for="Sobrenome" class="form-label">Sobrenome</label>
+                  <input id="Sobrenome" type="text" class="form-control" placeholder="Digite seu sobrenome" aria-label="Sobrenome" 
+                         pattern="[A-Za-zÀ-ÿ\s]+" title="Apenas letras são permitidas" required />
                 </div>
                 <!--Campo para o usuario definir seu CPF -->
                 <div class="mb-3 w-100">
@@ -104,13 +92,16 @@
                   <p style="margin-top:30px;">Meu veículo</p>
                   <div class="d-flex flex-column ms-auto">
                       <div class="item">
-                          <input  style="background-color:#1d89ED;color: white;" id="Placa-car" type="text" class="input-car form-control" placeholder="Placa">
+                          <input  style="background-color:#1d89ED;color: white;" id="Placa-car" type="text" class="input-car form-control" placeholder="Placa"
+                          pattern="[A-Za-zÀ-ÿ\s]+" title="Apenas letras são permitidas" required>
                      </div>
                      <div class="item">
-                          <input style="background-color:#1d89ED; color:white;" id="Modelo-car" type="text" class="input-car form-control" placeholder="Modelo">   
+                          <input style="background-color:#1d89ED; color:white;" id="Modelo-car" type="text" class="input-car form-control" placeholder="Modelo"
+                          pattern="[A-Za-zÀ-ÿ\s]+" title="Apenas letras são permitidas" required>   
                      </div>
                      <div class="item">
-                          <input style="background-color:#1d89ED;color:white;" id="cor-car" type="text" class="input-car form-control" placeholder="Cor">   
+                          <input style="background-color:#1d89ED;color:white;" id="cor-car" type="text" class="input-car form-control" placeholder="Cor"
+                          pattern="[A-Za-zÀ-ÿ\s]+" title="Apenas letras são permitidas" required>   
                      </div>                          
                   </div>       
               </div>

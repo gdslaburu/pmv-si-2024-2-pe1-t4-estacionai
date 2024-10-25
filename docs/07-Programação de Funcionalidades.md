@@ -49,19 +49,34 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |RF-020| Permitir que qualquer usuário com ou sem login visualize as perguntas frequentes | Raquel Ribeiro | Contatenos.html |
 
 
-### Requisitos não Funcionais
+## Descrição das estruturas:
 
-A tabela a seguirapresenta os requisitos não-funcionais que relacionam o escopo do projeto ue foram realizaos e que estão pendentes:
+## Login
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Usuário        | Texto             |Campo para que o usuario possa acessar sua conta|Jose_Alberto                               | 
+| Senha          | Texto             |Campo para que o usuario consiga se autenticar no site| Jos2233@                            |
 
-|ID     | Descrição do Requisito  |Prioridade | Status |
-|-------|-------------------------|----|-----|
-|RNF-001| O site deve ser responsivo para rodar em um dispositivos móvel | ALTA | Pendente |
-|RNF-002| A interface do usuário deve ser intuitiva e fácil de usar | ALTA | Realizado |
-|RNF-003| O banco de dados utilizado deve ser JSON-Server | ALTA | Pendente|
-|RNF-004| Para o serviço de geolocalização deve ser usada a API Places do Google | ALTA | Pendente |
-|RNF-005| Aplicação deve ser desenvolvida em HTML, CSS e Javascript | ALTA | Realizado |
-|RNF-006| As senhas de todos os usuários devem ser criptografadas com crypto-js | ALTA | Pendente |
-|RNF-007| Escalabilidade, o sistema deve ser capaz de lidar com um grande número de usuários simultâneos sem afetar o desempenho |MÉDIA| Pendente |
-|RNF-008| Compatibilidade com os principais navegadores (Chrome, Firefox, Safari, Edge)|ALTA| Realizado |
-|RNF-009| Conformidade com Lei Geral de Proteção de Dados garantindo o consentimento dos usuários para coleta de dados e oferecendo a opção de remover seus dados do sistema |ALTA| Pendente |
+
+## Usuário Reservar vagas
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+|Id              |Número inteiro     |Chave primária única que serve como identificador|1                                         |
+|Nome            | Texto             |Nome do usuário                            |Edson                                           | 
+|Sobrenome       | Texto             |Sobrenome do usuário                       |Arantes do Nascimento                           |
+|CPF             | Texto             |CPF usuário                                |255.137.564-11                        |
+|Placa do carro          |Texto            |Placa do carro registrado no site    |RIO-2A18                 |
+|Modelo do carro        |Texto            |descrição do modelo do carro do usuário    |VOLKSWAGEN GOL 2020                 |
+|Cor        |Texto            |Cor predominante no carro do usuário    |Vermelho                 |
+|e-mail     |Texto            |E-mail de registro da conta    |teste_22@gmail.com                |
+
+
+## Usuário cadastrar vagas
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Id        | Número inteiro            |Chave primaria única que serve como identificador|2                            | 
+|Nome         | Texto             |Nome do estacionamento que ficará visivél para os clientes|Estacionamento - supermercados Guarani|
+|CPF/CNPJ         | Texto             |Informação para identificação do fornecedor de vagas|45.222.123/0001-88|
+|Quantidade de vagas         |Número inteiro             |Quantidade de vagas diponibilizadas no estacionamento|50|
+|E-mail         |Texto             |E-mail de registro da conta|teste_22@gmail.com|
 
