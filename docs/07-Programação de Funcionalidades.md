@@ -80,3 +80,31 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |Quantidade de vagas         |Número inteiro             |Quantidade de vagas diponibilizadas no estacionamento|50|
 |E-mail         |Texto             |E-mail de registro da conta|teste_22@gmail.com|
 
+
+## Usuário cadastrar quantidade de Vagas
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Nome / Razão Social      | Texto            | Identificação de usuário| José Maria | 
+|CPF/CNPJ         | Texto             |Informação para identificação do fornecedor de vagas|45.222.123/0001-88|
+|Quantidade de vagas         | Número inteiro             |Quantidade de vagas diponibilizadas no estacionamento| 50 |
+
+## Formulário - Fale Conosco 
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Nome Completo | Texto | Identificação de pessoa física ou jurídica usuário ou não usuário | José Maria / Estacionamento PareAqui | 
+|E-mail |Texto |E-mail para contato com pessoa física ou jurídica usuário ou não usuário | teste_22@gmail.com |
+| Assunto | Texto | Motivo do contato do usuário ou não usuário | Texto livre |
+|Mensagem  | Texto |Pergunta ou dúvidas do usuário ou não usuário| Texto Livre |
+
+## Meus Dados
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Nome de Usuário | Texto | Identificação de pessoa física ou jurídica usuário ou não usuário | José Maria / Estacionamento PareAqui | 
+|E-mail |Texto |E-mail para contato com pessoa física ou jurídica usuário ou não usuário | teste_22@gmail.com |
+|CPF/CNPJ         | Texto             |Informação para identificação do fornecedor de vagas|88.888.888/8888-88|
+| Senha          | Texto             |Campo para que o usuario consiga se autenticar no site| Jos2233@ |
+| Logradouro com Nº | Texto | Endereço do usuário com número | Rua J, 88 |
+| Cidade | Texto | Cidade do usuário pessoa física ou jurídica | São Paulo |
+| Cidade | Texto | Estado do usuário pessoa física ou jurídica | SP |
+| Telefone para Contato | Texto | Telefone para contato com o usuário | +55 11 98888-8888 |
+| CEP | Texto | Identificação de local do usuário | 88888-888 |
