@@ -91,14 +91,6 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |CPF/CNPJ         | Texto             |Informação para identificação do fornecedor de vagas|45.222.123/0001-88|
 |Quantidade de vagas         | Número inteiro             |Quantidade de vagas diponibilizadas no estacionamento| 50 |
 
-## Formulário - Fale Conosco 
-|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Nome Completo | Texto | Identificação de pessoa física ou jurídica usuário ou não usuário | José Maria / Estacionamento PareAqui | 
-|E-mail |Texto |E-mail para contato com pessoa física ou jurídica usuário ou não usuário | teste_22@gmail.com |
-| Telefone | Texto | Telefone para contato com o usuário (campo opcional) | +555 11 98888-8888 |
-| Assunto | Texto | Motivo do contato do usuário ou não usuário | Texto livre |
-|Mensagem  | Texto |Pergunta ou dúvidas do usuário ou não usuário| Texto Livre |
 
 ## Meus Dados
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
@@ -112,3 +104,13 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 | Estado | Texto | Estado do usuário pessoa física ou jurídica | SP |
 | Telefone para Contato | Texto | Telefone para contato com o usuário | +55 11 98888-8888 |
 | CEP | Texto | Identificação de local do usuário | 88888-888 |
+
+
+## Formulário - Fale Conosco 
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Nome Completo | Texto | Identificação de pessoa física ou jurídica usuário ou não usuário | José Maria / Estacionamento PareAqui | 
+|E-mail |Texto |E-mail para contato com pessoa física ou jurídica usuário ou não usuário | teste_22@gmail.com |
+| Telefone | Texto | Telefone para contato com o usuário (campo opcional) | +555 11 98888-8888 |
+| Assunto | Texto | Motivo do contato do usuário ou não usuário | Texto livre |
+|Mensagem  | Texto |Pergunta ou dúvidas do usuário ou não usuário| Texto Livre |

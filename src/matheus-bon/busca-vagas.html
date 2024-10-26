@@ -195,7 +195,7 @@
       </ul>
     </footer>
 
-    <!-- Modal -->
+    <!-- Modais -->
     <div
       class="modal fade"
       id="modalEstacionamento1"
@@ -230,7 +230,57 @@
             >
               Fechar
             </button>
-            <button type="button" class="btn btn-primary">Confirmar</button>
+            <button
+              type="button"
+              class="btn btn-primary"
+              data-bs-dismiss="modal"
+              id="confirmar-btn"
+            >
+              Confirmar
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div
+      class="modal fade"
+      id="modalConfirmacao"
+      tabindex="-1"
+      aria-labelledby="modalConfirmacaoLabel"
+      aria-hidden="true"
+    >
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="modalConfirmacaoLabel">
+              Aguarde Confirmação
+            </h5>
+            <button
+              type="button"
+              class="btn-close"
+              data-bs-dismiss="modal"
+              aria-label="Close"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <h4>Estacionamento Esperança</h4>
+            <p><strong>Ref Vaga:</strong> Vaga A</p>
+            <p><strong>Data de Reserva:</strong> 20/05/2022 - 20/05/2022</p>
+            <p><strong>Método de Pagamento:</strong> No Local</p>
+            <p><strong>Total de horas:</strong> 48:00h</p>
+            <p><strong>Locador:</strong> Alfredo Marques</p>
+            <p><strong>Total:</strong> R$200,00</p>
+            <p><strong>Valor hora:</strong> R$4,16</p>
+          </div>
+          <div class="modal-footer">
+            <button
+              type="button"
+              class="btn btn-success"
+              data-bs-dismiss="modal"
+            >
+              Ok
+            </button>
           </div>
         </div>
       </div>
@@ -249,6 +299,15 @@
           suggestionsBox.classList.add("d-none");
         }
       });
+
+      document
+        .getElementById("confirmar-btn")
+        .addEventListener("click", function () {
+          const modalConfirmacao = new bootstrap.Modal(
+            document.getElementById("modalConfirmacao")
+          );
+          modalConfirmacao.show();
+        });
     </script>
 
     <script
