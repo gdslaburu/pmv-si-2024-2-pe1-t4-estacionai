@@ -9,6 +9,8 @@ body {
     display: flex;
     height: 100vh;
     padding: 10px; 
+    padding-left: 40px;
+    padding-right: 40px;
 }
 
 /* Estilo do formulário */
