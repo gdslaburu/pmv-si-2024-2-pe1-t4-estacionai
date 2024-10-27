@@ -29,10 +29,10 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |------|------------------------|------------|-----------------|
 |RF-001| Permitir que o proprietário cadastre seu estabelecimento | Pedro Augusto | cadastroReserva.html |
 |RF-002| Permitir que o proprietário crie e atualize as vagas  | Rayana Eppenstein | cadastrovagas.html |
-|RF-003| Permitir que o proprietário visualize as vagas  | Mateus Mendes | --- |
+|RF-003| Permitir que o proprietário visualize as vagas  | Mateus Mendes | Minhas Vagas.html |
 |RF-004| Permitir que o proprietário confirme uma reserva | Pedro Salman | aprovacao.html |
 |RF-005| Permitir que o proprietário cancele uma reserva | Pedro Salman | aprovacao.html |
-|RF-006| Permitir que o proprietário defina preços por hora, dia, ou mês para as vagas | Mateus Mendes | --- |
+|RF-006| Permitir que o proprietário defina preços por hora, dia, ou mês para as vagas | Mateus Mendes | Minhas Vagas.html |
 |RF-007| Implementar um sistema de login | Pedro Augusto | login.html |
 |RF-008| Permitir que o usuário pesquise vagas de estacionamento por local | Matheus Bon | home.html |
 |RF-009| Exibir para o usuário as vagas de estacionamento mais próximas a ele |  Matheus Bon | home.html |
