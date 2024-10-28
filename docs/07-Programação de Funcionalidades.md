@@ -81,9 +81,6 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |E-mail         |Texto             |E-mail de registro da conta|teste_22@gmail.com|
 
 
-
-
-
 ## Usuário cadastrar quantidade de Vagas
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
@@ -114,3 +111,36 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 | Telefone | Texto | Telefone para contato com o usuário (campo opcional) | +555 11 98888-8888 |
 | Assunto | Texto | Motivo do contato do usuário ou não usuário | Texto livre |
 |Mensagem  | Texto |Pergunta ou dúvidas do usuário ou não usuário| Texto Livre |
+
+## Proprietário - Estrutura de Reservas Pendentes
+| **Nome**     | **Tipo** | **Descrição**                                    | **Exemplo**     |
+|--------------|----------|--------------------------------------------------|-----------------|
+| Cliente      | Texto    | Nome do cliente que solicitou a reserva          | Luke Skywalker  |
+| Data         | Data     | Data da reserva solicitada                       | 02/05/2024      |
+| Hora Início  | Hora     | Horário de início da reserva                     | 18:00           |
+| Hora Fim     | Hora     | Horário de término da reserva                    | 20:00           |
+| Status       | Texto    | Status da reserva (Pendente, Aprovada, Recusada) | Pendente        |
+
+
+## Proprietário - Estrutura para Aprovação de Reserva
+| **Nome**        | **Tipo** | **Descrição**                                 | **Exemplo**    |
+|-----------------|----------|-----------------------------------------------|----------------|
+| Vaga Selecionada | Texto    | Identificação da vaga atribuída ao cliente    | Vaga 1         |
+| Cliente         | Texto    | Nome do cliente                               | Luke Skywalker |
+| Data            | Data     | Data da reserva                               | 02/05/2024     |
+| Hora Início     | Hora     | Horário de início da reserva                  | 18:00          |
+| Hora Fim        | Hora     | Horário de término da reserva                 | 20:00          |
+
+
+## Proprietário - Estrutura de Confirmação de Reserva
+| **Nome**             | **Tipo**  | **Descrição**                                       | **Exemplo**     |
+|----------------------|-----------|-----------------------------------------------------|-----------------|
+| Ref Vaga             | Texto     | Referência ou identificação da vaga                 | Vaga A          |
+| Data de Reserva      | Data      | Período da reserva                                  | 20/05/2024      |
+| Método de Pagamento  | Texto     | Método pelo qual o pagamento será realizado         | No Local        |
+| Total de Horas       | Duração   | Duração total da reserva                            | 2 horas         |
+| Locador              | Texto     | Nome do proprietário ou responsável pela vaga       | Alfredo Marques |
+| Total                | Monetário | Valor total da reserva                              | R$200,00        |
+| Valor Hora           | Monetário | Valor cobrado por hora                              | R$100,00        |
+
+
