@@ -116,9 +116,9 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 | **Nome**     | **Tipo** | **Descrição**                                    | **Exemplo**     |
 |--------------|----------|--------------------------------------------------|-----------------|
 | Cliente      | Texto    | Nome do cliente que solicitou a reserva          | Luke Skywalker  |
-| Data         | Data     | Data da reserva solicitada                       | 02/05/2024      |
-| Hora Início  | Hora     | Horário de início da reserva                     | 18:00           |
-| Hora Fim     | Hora     | Horário de término da reserva                    | 20:00           |
+| Data         | Número inteiro     | Data da reserva solicitada                       | 02/05/2024      |
+| Hora Início  | Número inteiro     | Horário de início da reserva                     | 18:00           |
+| Hora Fim     | Número inteiro     | Horário de término da reserva                    | 20:00           |
 | Status       | Texto    | Status da reserva (Pendente, Aprovada, Recusada) | Pendente        |
 
 
@@ -127,20 +127,20 @@ A tabela que se segue apresenta os requisitos funcionais e não-funcionais que r
 |-----------------|----------|-----------------------------------------------|----------------|
 | Vaga Selecionada | Texto    | Identificação da vaga atribuída ao cliente    | Vaga 1         |
 | Cliente         | Texto    | Nome do cliente                               | Luke Skywalker |
-| Data            | Data     | Data da reserva                               | 02/05/2024     |
-| Hora Início     | Hora     | Horário de início da reserva                  | 18:00          |
-| Hora Fim        | Hora     | Horário de término da reserva                 | 20:00          |
+| Data            | Número inteiro     | Data da reserva                               | 02/05/2024     |
+| Hora Início     | Número inteiro     | Horário de início da reserva                  | 18:00          |
+| Hora Fim        | Número inteiro     | Horário de término da reserva                 | 20:00          |
 
 
 ## Proprietário - Estrutura de Confirmação de Reserva
 | **Nome**             | **Tipo**  | **Descrição**                                       | **Exemplo**     |
 |----------------------|-----------|-----------------------------------------------------|-----------------|
 | Ref Vaga             | Texto     | Referência ou identificação da vaga                 | Vaga A          |
-| Data de Reserva      | Data      | Período da reserva                                  | 20/05/2024      |
+| Data de Reserva      | Número inteiro      | Período da reserva                                  | 20/05/2024      |
 | Método de Pagamento  | Texto     | Método pelo qual o pagamento será realizado         | No Local        |
-| Total de Horas       | Duração   | Duração total da reserva                            | 2 horas         |
+| Total de Horas       | Número inteiro   | Duração total da reserva                            | 2 horas         |
 | Locador              | Texto     | Nome do proprietário ou responsável pela vaga       | Alfredo Marques |
-| Total                | Monetário | Valor total da reserva                              | R$200,00        |
-| Valor Hora           | Monetário | Valor cobrado por hora                              | R$100,00        |
+| Total                | Número flutuante | Valor total da reserva                              | R$200,00        |
+| Valor Hora           | Número flutuante | Valor cobrado por hora                              | R$100,00        |
 
 
